@@ -45,6 +45,9 @@ object MonitorForm: TMonitorForm
     object TabSet: TTabSheet
       Caption = 'Settings'
     end
+    object TabFile: TTabSheet
+      Caption = 'File Monitor'
+    end
   end
   object StatusBar1: TStatusBar
     Left = 0

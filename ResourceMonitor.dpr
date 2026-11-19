@@ -5,7 +5,8 @@ uses
   MainForm in 'MainForm.pas' {MonitorForm},
   Monitor.Core in 'Monitor.Core.pas',
   ChartUtils in 'ChartUtils.pas',
-  CpuTemp in 'CpuTemp.pas';
+  CpuTemp in 'CpuTemp.pas',
+  FileMonitor in 'FileMonitor.pas';
 
 {$R *.res}
 

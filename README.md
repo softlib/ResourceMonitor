@@ -50,6 +50,14 @@
 - 开机自启动（写 HKCU Run 注册键，仅当前用户）
 - 配置文件：程序目录下 `ResourceMonitor.ini`
 
+### 10. 文件操作监控（文件监控页签）
+- 基于 `Winapi.ShlObj` 的外壳变更通知（Shell Change Notification）机制：`SHChangeNotifyRegister` + `SHChangeNotification_Lock` + `SHGetPathFromIDList`
+- 可添加任意多个监控目录（含子目录递归），支持手动输入或“浏览...”选择
+- 实时记录：**创建 / 删除 / 移动重命名 / 内容修改 / 属性变化 / 磁盘介质变化**，重命名同时显示旧路径与新路径
+- 事件列表显示时间、操作类型、路径、目标路径；可忽略 `*.tmp`、`~` 结尾等临时文件
+- 监控目录自动保存到 `watch_paths.txt`，下次启动自动恢复；事件同步写入 CSV 日志
+- 通过隐藏窗口接收系统通知，不阻塞界面；事件回调在主线程执行，直接更新 UI
+
 ## 编译方法
 
 1. 用 Delphi 11.3（Alexandria）打开 `ResourceMonitor.dproj`（或直接打开 `ResourceMonitor.dpr`，IDE 会自动生成 dproj）。
@@ -67,6 +75,7 @@
   - **内存**：使用率曲线 + 物理内存/提交内存/内核内存明细
   - **磁盘**：每盘容量条 + 实时读写速度与忙闲度
   - **进程**：全进程 CPU/内存排行（点表头排序）
+  - **文件监控**：添加监控目录 → 点“开始监控”，实时捕获创建/删除/修改/重命名等文件操作
   - **设置**：采样、告警阈值、行为、日志配置
 
 ## 文件结构
@@ -75,9 +84,11 @@
 |------|------|
 | `ResourceMonitor.dpr` | 工程入口 |
 | `ResourceMonitor.dproj` | 工程配置（Delphi 11.3） |
-| `MainForm.pas / .dfm` | 主窗体：界面、托盘、告警、日志、设置 |
+| `MainForm.pas / .dfm` | 主窗体：界面、托盘、告警、日志、设置、文件监控 UI |
 | `Monitor.Core.pas` | 采样引擎：CPU/内存/磁盘/进程数据采集 |
 | `ChartUtils.pas` | 绘图工具：历史曲线、仪表条、字节格式化 |
+| `CpuTemp.pas` | CPU 温度：后台线程 + WMI 读取 |
+| `FileMonitor.pas` | 文件监控：基于 Winapi.ShlObj 外壳变更通知 |
 
 ## 技术要点
 
@@ -86,3 +97,5 @@
 - 磁盘 IO 通过 `IOCTL_DISK_PERFORMANCE` 获取累计读写字节数与空闲时间，两次采样做差值计算速率与忙闲度；若系统不支持则显示 "IO 数据不可用" 而不崩溃。
 - 历史曲线自绘（TPaintBox），最新数据从右侧滚入；窗体开启双缓冲避免闪烁。
 - 进程列表使用 OwnerData 虚拟模式，数百进程下刷新流畅。
+- CPU 温度在后台线程每 5 秒通过 WMI 查询，避免阻塞 UI。
+- 文件监控使用 `SHCNRF_NewDelivery` 共享内存投递 + 隐藏窗口接收通知；`SHChangeNotification_Lock` 等关键函数以 SDK 正确签名从 shell32 直接导入，规避旧版 RTL 声明缺陷；支持多目录分别注册、递归监控与临时文件过滤。

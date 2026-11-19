@@ -79,6 +79,7 @@
         <DCCReference Include="Monitor.Core.pas"/>
         <DCCReference Include="ChartUtils.pas"/>
         <DCCReference Include="CpuTemp.pas"/>
+        <DCCReference Include="FileMonitor.pas"/>
         <BuildConfiguration Include="Base">
             <Key>Base</Key>
         </BuildConfiguration>

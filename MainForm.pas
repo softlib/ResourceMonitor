@@ -9,11 +9,11 @@ interface
 uses
   Winapi.Windows, Winapi.Messages,
   System.SysUtils, System.Classes, System.Types, System.Math, System.IniFiles,
-  System.DateUtils, System.Generics.Collections, System.Generics.Defaults,
+  System.StrUtils, System.DateUtils, System.Generics.Collections, System.Generics.Defaults,
   System.UITypes, System.Win.Registry,
   Vcl.Graphics, Vcl.Controls, Vcl.Forms, Vcl.StdCtrls, Vcl.ExtCtrls,
-  Vcl.ComCtrls, Vcl.Menus, Vcl.Clipbrd,
-  Monitor.Core, ChartUtils, CpuTemp, Vcl.Dialogs;
+  Vcl.ComCtrls, Vcl.Menus, Vcl.Clipbrd, Vcl.FileCtrl,
+  Monitor.Core, ChartUtils, CpuTemp, FileMonitor, Vcl.Dialogs;
 
 type
   TMonitorForm = class(TForm)
@@ -26,6 +26,7 @@ type
     TabDisk: TTabSheet;
     TabProc: TTabSheet;
     TabSet: TTabSheet;
+    TabFile: TTabSheet;
     StatusBar1: TStatusBar;
     procedure FormCreate(Sender: TObject);
     procedure FormDestroy(Sender: TObject);
@@ -36,6 +37,7 @@ type
   private
     FEngine: TMonitorEngine;
     FThermal: TThermalThread;
+    FFileMonitor: TShellFileMonitor;
     FCpuTempC: Double;
     FCpuTempOk: Boolean;
     FCpuTempStatus: string;
@@ -74,6 +76,14 @@ type
     PbMemBar: TPaintBox;
     PbDisk: TPaintBox;
     LvProcs: TListView;
+    // 文件监控界面
+    EdWatchPath: TEdit;
+    LbWatchPaths: TListBox;
+    LvFileEvents: TListView;
+    BtnStartWatch: TButton;
+    BtnStopWatch: TButton;
+    ChkWatchTemp: TCheckBox;
+    FFileEventCount: Integer;
     FProcsView: TArray<TProcessCpuInfo>;
     FProcSortCol: Integer;
     FProcSortDesc: Boolean;
@@ -105,6 +115,7 @@ type
     procedure BuildDiskTab;
     procedure BuildProcTab;
     procedure BuildSettingsTab;
+    procedure BuildFileTab;
     procedure LoadSettings;
     procedure SaveSettings;
     procedure FillSettingsControls;
@@ -140,6 +151,14 @@ type
     procedure MiTopClick(Sender: TObject);
     procedure MiAutoClick(Sender: TObject);
     procedure MiExitClick(Sender: TObject);
+    // 文件监控
+    procedure FileMonitorChange(Sender: TObject; const AEvent: TFileChangeEvent);
+    procedure BtnAddWatchClick(Sender: TObject);
+    procedure BtnRemoveWatchClick(Sender: TObject);
+    procedure BtnStartWatchClick(Sender: TObject);
+    procedure BtnStopWatchClick(Sender: TObject);
+    procedure BtnClearEventsClick(Sender: TObject);
+    procedure LbWatchPathsDblClick(Sender: TObject);
   end;
 
 var
@@ -173,6 +192,10 @@ begin
   FCpuTempStatus := '正在读取 CPU 温度…';
   FThermal := TThermalThread.Create(5000);
   FThermal.Start;
+  // 文件监控器
+  FFileMonitor := TShellFileMonitor.Create;
+  FFileMonitor.OnChange := FileMonitorChange;
+  FFileMonitor.LoadPathsFromFile(ExtractFilePath(Application.ExeName) + 'watch_paths.txt');
   FProcSortCol := 2;
   FProcSortDesc := True;
   FLastSnapLog := Now;
@@ -185,6 +208,7 @@ begin
   TabDisk.Caption := '磁盘';
   TabProc.Caption := '进程';
   TabSet.Caption := '设置';
+  TabFile.Caption := '文件监控';
 
   BuildTrayMenu;
   BuildOverview;
@@ -193,6 +217,7 @@ begin
   BuildDiskTab;
   BuildProcTab;
   BuildSettingsTab;
+  BuildFileTab;
   FillSettingsControls;
 
   TrayIcon1.Icon := Application.Icon;
@@ -212,6 +237,11 @@ end;
 
 procedure TMonitorForm.FormDestroy(Sender: TObject);
 begin
+  if FFileMonitor <> nil then begin
+    FFileMonitor.SavePathsToFile(ExtractFilePath(Application.ExeName) + 'watch_paths.txt');
+    FFileMonitor.Stop;
+    FreeAndNil(FFileMonitor);
+  end;
   FreeAndNil(FThermal);
   FreeAndNil(FCpuHist);
   FreeAndNil(FMemHist);
@@ -435,6 +465,138 @@ begin
   BtnTest.SetBounds(276, 296, 110, 30);
   BtnTest.Caption := '测试告警提示';
   BtnTest.OnClick := BtnTestAlertClick;
+end;
+
+{ ---------------- 文件监控页签 ---------------- }
+
+procedure TMonitorForm.BuildFileTab;
+var
+  TopPanel, BottomPanel: TPanel;
+  LeftPanel: TPanel;
+  Lbl: TLabel;
+begin
+  // 上部：目录输入区
+  TopPanel := TPanel.Create(Self);
+  TopPanel.Parent := TabFile;
+  TopPanel.Align := alTop;
+  TopPanel.Height := 84;
+  TopPanel.BevelOuter := bvNone;
+  TopPanel.Padding.SetBounds(8, 8, 8, 4);
+
+  Lbl := TLabel.Create(Self);
+  Lbl.Parent := TopPanel;
+  Lbl.Align := alTop;
+  Lbl.Caption := '监控目录（点击“添加”加入，双击列表项可移除；监控会自动包含其子目录）：';
+  Lbl.Height := 22;
+
+  EdWatchPath := TEdit.Create(Self);
+  EdWatchPath.Parent := TopPanel;
+  EdWatchPath.Align := alClient;
+  EdWatchPath.Text := '';
+
+  with TButton.Create(Self) do begin
+    Parent := TopPanel;
+    Align := alRight;
+    Width := 80;
+    Caption := '添加目录';
+    OnClick := BtnAddWatchClick;
+  end;
+  with TButton.Create(Self) do begin
+    Parent := TopPanel;
+    Align := alRight;
+    Width := 80;
+    Caption := '浏览...';
+    OnClick := BtnAddWatchClick;  // 空输入时打开目录选择对话框
+  end;
+
+  // 中部左侧：监控目录列表
+  LeftPanel := TPanel.Create(Self);
+  LeftPanel.Parent := TabFile;
+  LeftPanel.Align := alLeft;
+  LeftPanel.Width := 320;
+  LeftPanel.Padding.SetBounds(8, 4, 4, 8);
+  LeftPanel.BevelOuter := bvNone;
+
+  Lbl := TLabel.Create(Self);
+  Lbl.Parent := LeftPanel;
+  Lbl.Align := alTop;
+  Lbl.Caption := '已添加目录：';
+  Lbl.Height := 22;
+
+  with TButton.Create(Self) do begin
+    Parent := LeftPanel;
+    Align := alBottom;
+    Height := 30;
+    Caption := '移除选中目录';
+    OnClick := BtnRemoveWatchClick;
+  end;
+
+  LbWatchPaths := TListBox.Create(Self);
+  LbWatchPaths.Parent := LeftPanel;
+  LbWatchPaths.Align := alClient;
+  LbWatchPaths.OnDblClick := LbWatchPathsDblClick;
+
+  // 中部右侧：事件日志列表
+  LvFileEvents := TListView.Create(Self);
+  LvFileEvents.Parent := TabFile;
+  LvFileEvents.Align := alClient;
+  LvFileEvents.ViewStyle := vsReport;
+  LvFileEvents.RowSelect := True;
+  LvFileEvents.GridLines := True;
+  LvFileEvents.ReadOnly := True;
+  LvFileEvents.HideSelection := False;
+  with LvFileEvents.Columns.Add do begin Caption := '时间'; Width := 150; end;
+  with LvFileEvents.Columns.Add do begin Caption := '操作'; Width := 110; end;
+  with LvFileEvents.Columns.Add do begin Caption := '路径'; Width := 340; end;
+  with LvFileEvents.Columns.Add do begin Caption := '新路径 / 目标'; Width := 260; end;
+
+  // 底部：控制按钮
+  BottomPanel := TPanel.Create(Self);
+  BottomPanel.Parent := TabFile;
+  BottomPanel.Align := alBottom;
+  BottomPanel.Height := 48;
+  BottomPanel.BevelOuter := bvNone;
+  BottomPanel.Padding.SetBounds(8, 6, 8, 6);
+
+  BtnStartWatch := TButton.Create(Self);
+  BtnStartWatch.Parent := BottomPanel;
+  BtnStartWatch.Left := 8;
+  BtnStartWatch.Top := 8;
+  BtnStartWatch.Width := 90;
+  BtnStartWatch.Height := 30;
+  BtnStartWatch.Caption := '开始监控';
+  BtnStartWatch.OnClick := BtnStartWatchClick;
+
+  BtnStopWatch := TButton.Create(Self);
+  BtnStopWatch.Parent := BottomPanel;
+  BtnStopWatch.Left := 104;
+  BtnStopWatch.Top := 8;
+  BtnStopWatch.Width := 90;
+  BtnStopWatch.Height := 30;
+  BtnStopWatch.Caption := '停止监控';
+  BtnStopWatch.Enabled := False;
+  BtnStopWatch.OnClick := BtnStopWatchClick;
+
+  with TButton.Create(Self) do begin
+    Parent := BottomPanel;
+    Left := 200;
+    Top := 8;
+    Width := 90;
+    Height := 30;
+    Caption := '清空日志';
+    OnClick := BtnClearEventsClick;
+  end;
+
+  ChkWatchTemp := TCheckBox.Create(Self);
+  ChkWatchTemp.Parent := BottomPanel;
+  ChkWatchTemp.Left := 300;
+  ChkWatchTemp.Top := 12;
+  ChkWatchTemp.Width := 220;
+  ChkWatchTemp.Caption := '忽略临时文件 (*.tmp / ~ 结尾)';
+  ChkWatchTemp.Checked := True;
+
+  // 同步已保存的监控目录到列表
+  LbWatchPaths.Items.Assign(FFileMonitor.Paths);
 end;
 
 { ---------------- 设置 ---------------- }
@@ -688,6 +850,96 @@ begin
     Msg.Result := 0;
   end else
     inherited;
+end;
+
+{ ---------------- 文件监控事件处理 ---------------- }
+
+procedure TMonitorForm.FileMonitorChange(Sender: TObject;
+  const AEvent: TFileChangeEvent);
+var
+  Item: TListItem;
+  Detail: string;
+begin
+  // 该回调由隐藏窗口在主线程消息循环中触发，可直接操作 UI
+  Item := LvFileEvents.Items.Add;
+  Item.Caption := FormatDateTime('hh:nn:ss', AEvent.Time);
+  Item.SubItems.Add(AEvent.OpText);
+  Item.SubItems.Add(AEvent.Path1);
+  Item.SubItems.Add(AEvent.Path2);
+  Inc(FFileEventCount);
+  // 自动滚动到最新一条
+  LvFileEvents.ItemIndex := LvFileEvents.Items.Count - 1;
+  if LvFileEvents.Items.Count > 2000 then   // 限制条目数，防止无限增长
+    LvFileEvents.Items.Delete(0);
+  // 同步写入告警日志文件（逗号替换为空格，避免破坏 CSV 列）
+  if FLogAlerts then begin
+    Detail := AEvent.OpText + '：' + AEvent.Path1 +
+      IfThen(AEvent.Path2 <> '', ' -> ' + AEvent.Path2, '');
+    Detail := StringReplace(Detail, ',', '，', [rfReplaceAll]);
+    LogLine('文件', Detail);
+  end;
+end;
+
+procedure TMonitorForm.BtnAddWatchClick(Sender: TObject);
+var
+  Dir: string;
+begin
+  Dir := Trim(EdWatchPath.Text);
+  if Dir = '' then begin
+    // 空输入时打开目录选择对话框
+    if SelectDirectory('选择要监控的目录', '', Dir) then begin
+      EdWatchPath.Text := Dir;
+    end else
+      Exit;
+  end;
+  if not DirectoryExists(Dir) then begin
+    ShowMessage('目录不存在：' + Dir);
+    Exit;
+  end;
+  FFileMonitor.AddPath(Dir);
+  if LbWatchPaths.Items.IndexOf(Dir) < 0 then
+    LbWatchPaths.Items.Add(Dir);
+  EdWatchPath.Clear;
+end;
+
+procedure TMonitorForm.BtnRemoveWatchClick(Sender: TObject);
+var
+  Dir: string;
+begin
+  if LbWatchPaths.ItemIndex < 0 then Exit;
+  Dir := LbWatchPaths.Items[LbWatchPaths.ItemIndex];
+  FFileMonitor.RemovePath(Dir);
+  LbWatchPaths.Items.Delete(LbWatchPaths.ItemIndex);
+end;
+
+procedure TMonitorForm.LbWatchPathsDblClick(Sender: TObject);
+begin
+  BtnRemoveWatchClick(Sender);
+end;
+
+procedure TMonitorForm.BtnStartWatchClick(Sender: TObject);
+begin
+  if FFileMonitor.Paths.Count = 0 then begin
+    ShowMessage('请先添加至少一个要监控的目录。');
+    Exit;
+  end;
+  FFileMonitor.ExcludeTemp := ChkWatchTemp.Checked;
+  FFileMonitor.Start;
+  BtnStartWatch.Enabled := False;
+  BtnStopWatch.Enabled := True;
+end;
+
+procedure TMonitorForm.BtnStopWatchClick(Sender: TObject);
+begin
+  FFileMonitor.Stop;
+  BtnStartWatch.Enabled := True;
+  BtnStopWatch.Enabled := False;
+end;
+
+procedure TMonitorForm.BtnClearEventsClick(Sender: TObject);
+begin
+  LvFileEvents.Items.Clear;
+  FFileEventCount := 0;
 end;
 
 { ---------------- 采样 ---------------- }
