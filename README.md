@@ -65,6 +65,8 @@
 3. 生成的 `ResourceMonitor.exe` 位于 `Win32\Debug`（或对应配置目录）下，可单文件直接运行，无需安装。
 
 > 源码均为 UTF-8（带 BOM）编码，中文字符串在 IDE 中可正常显示。
+>
+> **应用图标**：工程已配置 `ResourceMonitor.ico`，编译后 exe、任务栏与系统托盘都会显示。若 IDE 提示图标路径问题，在 Project Options → Application → Icon 中手动选择该 ico 文件即可。图标由 `build_icon.py` 生成（改配色/图形后运行 `python build_icon.py` 重新生成）。
 
 ## 运行说明
 
@@ -84,6 +86,9 @@
 |------|------|
 | `ResourceMonitor.dpr` | 工程入口 |
 | `ResourceMonitor.dproj` | 工程配置（Delphi 11.3） |
+| `ResourceMonitor.ico` | 应用图标（多分辨率 16/24/32/48/64/128/256，含托盘小尺寸专用简化版） |
+| `build_icon.py` | 图标生成脚本（可选，仅需重新设计图标时用；依赖 Pillow） |
+| `icon_preview.png` | 图标 512px 预览图 |
 | `MainForm.pas / .dfm` | 主窗体：界面、托盘、告警、日志、设置、文件监控 UI |
 | `Monitor.Core.pas` | 采样引擎：CPU/内存/磁盘/进程数据采集 |
 | `ChartUtils.pas` | 绘图工具：历史曲线、仪表条、字节格式化 |

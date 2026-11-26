@@ -36,3 +36,1582 @@
 2026-11-19 09:03:26,告警,CPU 使用率 99.9%，超过阈值 90% | CPU 占用最高的 3 个程序：WorkBuddy.exe（13.2%）、WorkBuddy.exe（12.2%）、ctfmon.exe（8.2%） | 
 2026-11-19 09:04:12,告警,CPU 使用率 94.0%，超过阈值 90% | CPU 占用最高的 3 个程序：MsMpEng.exe（10.7%）、ctfmon.exe（8.5%）、svchost.exe（8.4%） | 
 2026-11-19 09:09:00,告警,CPU 使用率 100.0%，超过阈值 90% | CPU 占用最高的 3 个程序：WorkBuddy.exe（9.9%）、MsMpEng.exe（9.1%）、ctfmon.exe（8.1%） | 
+2026-11-19 13:42:13,文件,移动/重命名文件：D:\yang2020\yls\samples\demo_监视系统操作\Win32\Debug\新建文本文档33.txt -> D:\yang2020\yls\samples\demo_监视系统操作\Win32\Debug\新建文本文档3.txt
+2026-11-19 13:42:13,文件,内容修改：D:\yang2020\yls\samples\demo_监视系统操作\Win32\Debug
+2026-11-19 13:44:24,文件,内容修改：D:\yang2020\yls\samples\demo_监视系统操作\Win32\Debug\新建文本文档3.txt
+2026-11-19 13:44:38,文件,创建文件：D:\yang2020\yls\samples\demo_监视系统操作\Win32\Debug\新建文本文档3 - 副本.txt
+2026-11-19 13:44:38,文件,内容修改：D:\yang2020\yls\samples\demo_监视系统操作\Win32\Debug\新建文本文档3 - 副本.txt
+2026-11-19 13:44:38,文件,内容修改：D:\yang2020\yls\samples\demo_监视系统操作\Win32\Debug
+2026-11-19 13:45:10,文件,删除文件：D:\yang2020\yls\samples\demo_监视系统操作\Win32\Debug\Project1.map
+2026-11-19 13:45:11,文件,内容修改：D:\yang2020\yls\samples\demo_监视系统操作\Win32\Debug
+2026-11-19 14:29:13,告警,CPU 使用率 94.1%，超过阈值 90% | CPU 占用最高的程序：无单进程显著占用（可能由多个进程合计导致） | 
+2026-11-19 14:31:41,告警,CPU 使用率 100.0%，超过阈值 90% | CPU 占用最高的程序：无单进程显著占用（可能由多个进程合计导致） | 
+2026-11-19 14:56:02,文件,内容修改：C:\Users\yls\.workbuddy\app\memory\polling-lease-yls.json
+2026-11-19 14:56:02,文件,内容修改：C:\Windows\System32\sru\SRU.chk
+2026-11-19 14:56:02,文件,内容修改：C:\Users\yls\Documents\Tencent Files\276678295\nt_qq\nt_data\log\qq-log_2026-11-19-14.qqxlog
+2026-11-19 14:56:02,文件,内容修改：C:\Windows\System32\winevt\Logs\Microsoft-Windows-Diagnosis-DPS%4Operational.evtx
+2026-11-19 14:56:02,文件,内容修改：C:\Windows\System32\winevt\Logs\Microsoft-Windows-Diagnosis-DPS%4Operational.evtx
+2026-11-19 14:56:02,文件,内容修改：C:\Users\yls\Desktop\pdfview\系统资源监控\Win32-Base\monitor_log.csv
+2026-11-19 14:56:03,文件,内容修改：C:\Windows\System32\sru\SRU.chk
+2026-11-19 14:56:03,文件,内容修改：C:\Users\yls\.workbuddy\logs\2026-11-19\workbuddyMainThread__7bfaba94ea1b2b634456d0d6e8dc6304.log
+2026-11-19 14:56:03,文件,内容修改：C:\Windows\System32\winevt\Logs\Microsoft-Windows-Diagnosis-DPS%4Operational.evtx
+2026-11-19 14:56:03,文件,内容修改：C:\Users\yls\Desktop\pdfview\系统资源监控\Win32-Base\monitor_log.csv
+2026-11-19 14:56:03,文件,内容修改：C:\Users\yls\Desktop\pdfview\系统资源监控\Win32-Base\monitor_log.csv
+2026-11-19 14:56:04,文件,内容修改：C:\Windows\System32\winevt\Logs\Microsoft-Windows-Diagnosis-DPS%4Operational.evtx
+2026-11-19 14:56:04,文件,内容修改：C:\Users\yls\Desktop\pdfview\系统资源监控\Win32-Base\monitor_log.csv
+2026-11-19 14:56:04,文件,内容修改：C:\Windows\System32\winevt\Logs\Microsoft-Windows-Diagnosis-DPS%4Operational.evtx
+2026-11-19 14:56:04,文件,内容修改：C:\Users\yls\Desktop\pdfview\系统资源监控\Win32-Base\monitor_log.csv
+2026-11-19 14:56:05,文件,内容修改：C:\Windows\System32\winevt\Logs\Microsoft-Windows-Diagnosis-DPS%4Operational.evtx
+2026-11-19 14:56:05,文件,内容修改：C:\Users\yls\Desktop\pdfview\系统资源监控\Win32-Base\monitor_log.csv
+2026-11-19 14:56:05,文件,内容修改：C:\Windows\System32\winevt\Logs\Microsoft-Windows-Diagnosis-DPS%4Operational.evtx
+2026-11-19 14:56:05,文件,内容修改：C:\Users\yls\Desktop\pdfview\系统资源监控\Win32-Base\monitor_log.csv
+2026-11-19 14:56:06,文件,内容修改：C:\Users\yls\.workbuddy\app\memory\polling-lease-yls.json
+2026-11-19 14:56:06,文件,内容修改：C:\Users\yls\Desktop\pdfview\系统资源监控\Win32-Base\monitor_log.csv
+2026-11-19 14:56:06,文件,内容修改：C:\Windows\System32\winevt\Logs\Microsoft-Windows-Diagnosis-DPS%4Operational.evtx
+2026-11-19 14:56:07,文件,内容修改：C:\Users\yls\Desktop\pdfview\系统资源监控\Win32-Base\monitor_log.csv
+2026-11-19 14:56:07,文件,内容修改：C:\Windows\System32\winevt\Logs\Microsoft-Windows-Diagnosis-DPS%4Operational.evtx
+2026-11-19 14:56:07,文件,内容修改：C:\Users\yls\Desktop\pdfview\系统资源监控\Win32-Base\monitor_log.csv
+2026-11-19 14:56:07,文件,内容修改：C:\Windows\System32\winevt\Logs\Microsoft-Windows-Diagnosis-DPS%4Operational.evtx
+2026-11-19 14:56:08,文件,内容修改：C:\Users\yls\Desktop\pdfview\系统资源监控\Win32-Base\monitor_log.csv
+2026-11-19 14:56:08,文件,内容修改：C:\Users\yls\Desktop\pdfview\系统资源监控\Win32-Base\monitor_log.csv
+2026-11-19 14:56:08,文件,内容修改：C:\Windows\System32\winevt\Logs\Microsoft-Windows-Diagnosis-DPS%4Operational.evtx
+2026-11-19 14:56:09,文件,内容修改：C:\Users\yls\Desktop\pdfview\系统资源监控\Win32-Base\monitor_log.csv
+2026-11-19 14:56:09,文件,内容修改：C:\Windows\System32\winevt\Logs\Microsoft-Windows-Diagnosis-DPS%4Operational.evtx
+2026-11-19 14:56:09,文件,内容修改：C:\Users\yls\Desktop\pdfview\系统资源监控\Win32-Base\monitor_log.csv
+2026-11-19 14:56:09,文件,内容修改：C:\Windows\System32\winevt\Logs\Microsoft-Windows-Diagnosis-DPS%4Operational.evtx
+2026-11-19 14:56:10,文件,内容修改：C:\Users\yls\Desktop\pdfview\系统资源监控\Win32-Base\monitor_log.csv
+2026-11-19 14:56:10,文件,内容修改：C:\Users\yls\AppData\Roaming\QQ\qqex\logs\exApp-QQEXDOC_2026-11-19-14.qqxlog
+2026-11-19 14:56:10,文件,内容修改：C:\Windows\System32\winevt\Logs\Microsoft-Windows-Diagnosis-DPS%4Operational.evtx
+2026-11-19 14:56:10,文件,内容修改：C:\Users\yls\Desktop\pdfview\系统资源监控\Win32-Base\monitor_log.csv
+2026-11-19 14:56:11,文件,内容修改：C:\Users\yls\Desktop\pdfview\系统资源监控\Win32-Base\monitor_log.csv
+2026-11-19 14:56:11,文件,内容修改：C:\Users\yls\.workbuddy\logs\2026-11-19\workbuddyMainThread__7bfaba94ea1b2b634456d0d6e8dc6304.log
+2026-11-19 14:56:11,文件,内容修改：C:\Windows\System32\winevt\Logs\Microsoft-Windows-Diagnosis-DPS%4Operational.evtx
+2026-11-19 14:56:11,文件,内容修改：C:\Users\yls\.workbuddy\app\memory\polling-lease-yls.json
+2026-11-19 14:56:11,文件,内容修改：C:\Users\yls\Desktop\pdfview\系统资源监控\Win32-Base\monitor_log.csv
+2026-11-19 14:56:12,文件,内容修改：C:\Program Files\Git\usr\libexec\frcode.exe
+2026-11-19 14:56:12,文件,内容修改：C:\Program Files\Git\usr\libexec\getprocaddr32.exe
+2026-11-19 14:56:12,文件,内容修改：C:\Program Files\Git\usr\libexec\getprocaddr64.exe
+2026-11-19 14:56:12,文件,内容修改：C:\Windows\System32\winevt\Logs\Microsoft-Windows-Diagnosis-DPS%4Operational.evtx
+2026-11-19 14:56:12,文件,内容修改：C:\Users\yls\Desktop\pdfview\系统资源监控\Win32-Base\monitor_log.csv
+2026-11-19 14:56:12,文件,内容修改：C:\Windows\System32\winevt\Logs\Microsoft-Windows-Diagnosis-DPS%4Operational.evtx
+2026-11-19 14:56:12,文件,内容修改：C:\Users\yls\Desktop\pdfview\系统资源监控\Win32-Base\monitor_log.csv
+2026-11-19 14:56:13,文件,内容修改：C:\Windows\System32\winevt\Logs\Microsoft-Windows-Diagnosis-DPS%4Operational.evtx
+2026-11-19 14:56:13,文件,内容修改：C:\Users\yls\Desktop\pdfview\系统资源监控\Win32-Base\monitor_log.csv
+2026-11-19 14:56:13,文件,内容修改：C:\Users\yls\Desktop\pdfview\系统资源监控\Win32-Base\monitor_log.csv
+2026-11-19 14:56:14,文件,内容修改：C:\Windows\System32\winevt\Logs\Microsoft-Windows-Diagnosis-DPS%4Operational.evtx
+2026-11-19 14:56:14,文件,内容修改：C:\Program Files\Git\usr\libexec\p11-kit\p11-kit-remote.exe
+2026-11-19 14:56:14,文件,内容修改：C:\Program Files\Git\usr\libexec\p11-kit\p11-kit-server.exe
+2026-11-19 14:56:14,文件,内容修改：C:\Users\yls\Desktop\pdfview\系统资源监控\Win32-Base\monitor_log.csv
+2026-11-19 14:56:14,文件,内容修改：C:\Windows\System32\winevt\Logs\Microsoft-Windows-Diagnosis-DPS%4Operational.evtx
+2026-11-19 14:56:14,文件,内容修改：C:\Users\yls\Desktop\pdfview\系统资源监控\Win32-Base\monitor_log.csv
+2026-11-19 14:56:15,文件,内容修改：C:\Windows\System32\winevt\Logs\Microsoft-Windows-Diagnosis-DPS%4Operational.evtx
+2026-11-19 14:56:15,文件,内容修改：C:\Users\yls\Desktop\pdfview\系统资源监控\Win32-Base\monitor_log.csv
+2026-11-19 14:56:15,文件,内容修改：C:\Users\yls\.workbuddy\logs\main.log
+2026-11-19 14:56:15,文件,内容修改：C:\Users\yls\Desktop\pdfview\系统资源监控\Win32-Base\monitor_log.csv
+2026-11-19 14:56:16,文件,内容修改：C:\Windows\System32\winevt\Logs\Microsoft-Windows-Diagnosis-DPS%4Operational.evtx
+2026-11-19 14:56:16,文件,内容修改：C:\Users\yls\Desktop\pdfview\系统资源监控\Win32-Base\monitor_log.csv
+2026-11-19 14:56:16,文件,内容修改：C:\Users\yls\.workbuddy\logs\main.log
+2026-11-19 14:56:16,文件,内容修改：C:\Windows\System32\winevt\Logs\Microsoft-Windows-Diagnosis-DPS%4Operational.evtx
+2026-11-19 14:56:16,文件,内容修改：C:\Users\yls\.workbuddy\app\memory\polling-lease-yls.json
+2026-11-19 14:56:16,文件,内容修改：C:\Users\yls\Desktop\pdfview\系统资源监控\Win32-Base\monitor_log.csv
+2026-11-19 14:56:17,文件,内容修改：C:\Windows\System32\winevt\Logs\Microsoft-Windows-Diagnosis-DPS%4Operational.evtx
+2026-11-19 14:56:17,文件,内容修改：C:\Users\yls\Desktop\pdfview\系统资源监控\Win32-Base\monitor_log.csv
+2026-11-19 14:56:17,文件,内容修改：C:\Users\yls\.workbuddy\logs\main.log
+2026-11-19 14:56:17,文件,内容修改：C:\Windows\System32\winevt\Logs\Microsoft-Windows-Diagnosis-DPS%4Operational.evtx
+2026-11-19 14:56:17,文件,内容修改：C:\Users\yls\Desktop\pdfview\系统资源监控\Win32-Base\monitor_log.csv
+2026-11-19 14:56:18,文件,内容修改：C:\Users\yls\.workbuddy\logs\2026-11-19\workbuddyMainThread__7bfaba94ea1b2b634456d0d6e8dc6304.log
+2026-11-19 14:56:18,文件,内容修改：C:\Users\yls\Desktop\pdfview\系统资源监控\Win32-Base\monitor_log.csv
+2026-11-19 14:56:18,文件,内容修改：C:\Windows\System32\winevt\Logs\Microsoft-Windows-Diagnosis-DPS%4Operational.evtx
+2026-11-19 14:56:18,文件,内容修改：C:\Users\yls\Desktop\pdfview\系统资源监控\Win32-Base\monitor_log.csv
+2026-11-19 14:56:19,文件,内容修改：C:\Windows\System32\winevt\Logs\Microsoft-Windows-Diagnosis-DPS%4Operational.evtx
+2026-11-19 14:56:19,文件,内容修改：C:\Users\yls\Desktop\pdfview\系统资源监控\Win32-Base\monitor_log.csv
+2026-11-19 14:56:19,文件,内容修改：C:\Windows\System32\winevt\Logs\Microsoft-Windows-Diagnosis-DPS%4Operational.evtx
+2026-11-19 14:56:19,文件,内容修改：C:\Users\yls\Desktop\pdfview\系统资源监控\Win32-Base\monitor_log.csv
+2026-11-19 14:56:20,文件,内容修改：C:\Users\yls\.workbuddy\logs\main.log
+2026-11-19 14:56:20,文件,内容修改：C:\Users\yls\Desktop\pdfview\系统资源监控\Win32-Base\monitor_log.csv
+2026-11-19 14:56:20,文件,内容修改：C:\Windows\System32\winevt\Logs\Microsoft-Windows-Diagnosis-DPS%4Operational.evtx
+2026-11-19 14:56:20,文件,内容修改：C:\Users\yls\.workbuddy\logs\daemon.log
+2026-11-19 14:56:20,文件,删除文件：C:\Users\yls\.workbuddy\616886e2-731f-485f-9337-c70d5e92db89\sidebar-list-snapshot.json
+2026-11-19 14:56:20,文件,内容修改：C:\Users\yls\.workbuddy\616886e2-731f-485f-9337-c70d5e92db89
+2026-11-19 14:56:20,文件,内容修改：C:\Users\yls\.workbuddy\logs\2026-11-19\edge-sync.log
+2026-11-19 14:56:20,文件,内容修改：C:\Users\yls\.workbuddy\logs\2026-11-19\sdk\conversations\operation.log
+2026-11-19 14:56:20,文件,内容修改：C:\Users\yls\.workbuddy\app\memory\polling-lease-yls.json
+2026-11-19 14:56:20,文件,内容修改：C:\Users\yls\Desktop\pdfview\系统资源监控\Win32-Base\monitor_log.csv
+2026-11-19 14:56:21,告警,CPU 使用率 91.6%，超过阈值 90% | CPU 占用最高的 3 个程序：WorkBuddy.exe（11.2%）、ctfmon.exe（9.5%）、svchost.exe（8.3%） | 
+2026-11-19 14:56:21,文件,内容修改：C:\Users\yls\.workbuddy\logs\2026-11-19\sdk\conversations\operation.log
+2026-11-19 14:56:21,文件,内容修改：C:\Users\yls\.workbuddy\plugins\marketplaces
+2026-11-19 14:56:21,文件,内容修改：C:\Windows\System32\winevt\Logs\Microsoft-Windows-Diagnosis-DPS%4Operational.evtx
+2026-11-19 14:56:21,文件,内容修改：C:\Users\yls\Desktop\pdfview\系统资源监控\Win32-Base\monitor_log.csv
+2026-11-19 14:56:24,文件,创建文件夹：C:\Users\yls\.workbuddy\plugins\marketplaces\.workbuddy-wecom-unified.staging-18272-1795071381627-a0k8pg
+2026-11-19 14:56:24,文件,创建文件夹：C:\Users\yls\AppData\Local\Temp\codebuddy-marketplace-update-p18272-3KmpiN
+2026-11-19 14:56:24,文件,删除文件夹：C:\Users\yls\AppData\Local\Temp\codebuddy-marketplace-update-p18272-3KmpiN
+2026-11-19 14:56:24,文件,删除文件夹：C:\Users\yls\.workbuddy\plugins\marketplaces\.workbuddy-wecom-unified.staging-18272-1795071381627-a0k8pg
+2026-11-19 14:56:25,文件,内容修改：C:\Windows\System32\winevt\Logs\Microsoft-Windows-Diagnosis-DPS%4Operational.evtx
+2026-11-19 14:56:25,文件,内容修改：C:\Users\yls\Desktop\pdfview\系统资源监控\Win32-Base\monitor_log.csv
+2026-11-19 14:56:25,文件,内容修改：C:\Windows\System32\winevt\Logs\Microsoft-Windows-Diagnosis-DPS%4Operational.evtx
+2026-11-19 14:56:25,文件,内容修改：C:\Users\yls\.workbuddy\logs\2026-11-19\workbuddyMainThread__7bfaba94ea1b2b634456d0d6e8dc6304.log
+2026-11-19 14:56:25,文件,内容修改：C:\Users\yls\.workbuddy\app\memory\polling-lease-yls.json
+2026-11-19 14:56:25,文件,内容修改：C:\Users\yls\Desktop\pdfview\系统资源监控\Win32-Base\monitor_log.csv
+2026-11-19 14:56:26,文件,内容修改：C:\Windows\System32\winevt\Logs\Microsoft-Windows-Diagnosis-DPS%4Operational.evtx
+2026-11-19 14:56:26,文件,内容修改：C:\Users\yls\.workbuddy\logs\main.log
+2026-11-19 14:56:26,文件,内容修改：C:\Users\yls\Desktop\pdfview\系统资源监控\Win32-Base\monitor_log.csv
+2026-11-19 14:56:26,文件,内容修改：C:\Windows\System32\winevt\Logs\Microsoft-Windows-Diagnosis-DPS%4Operational.evtx
+2026-11-19 14:56:26,文件,内容修改：C:\Users\yls\Desktop\pdfview\系统资源监控\Win32-Base\monitor_log.csv
+2026-11-19 14:56:27,文件,内容修改：C:\Users\yls\Desktop\pdfview\系统资源监控\Win32-Base\monitor_log.csv
+2026-11-19 14:56:27,文件,内容修改：C:\Windows\System32\winevt\Logs\Microsoft-Windows-Diagnosis-DPS%4Operational.evtx
+2026-11-19 14:56:27,文件,删除文件：C:\Users\yls\AppData\Local\Temp\{0F499A37-B675-49E5-9827-CF2FD0680B7C}.png
+2026-11-19 14:56:27,文件,内容修改：C:\Users\yls\Desktop\pdfview\系统资源监控\Win32-Base\monitor_log.csv
+2026-11-19 14:56:28,文件,内容修改：C:\Windows\System32\winevt\Logs\Microsoft-Windows-Diagnosis-DPS%4Operational.evtx
+2026-11-19 14:56:28,文件,内容修改：C:\Users\yls\Desktop\pdfview\系统资源监控\Win32-Base\monitor_log.csv
+2026-11-19 14:56:28,文件,内容修改：C:\Windows\System32\winevt\Logs\Microsoft-Windows-Diagnosis-DPS%4Operational.evtx
+2026-11-19 14:56:28,文件,内容修改：C:\Users\yls\Desktop\pdfview\系统资源监控\Win32-Base\monitor_log.csv
+2026-11-19 14:56:29,文件,内容修改：C:\Users\yls\.workbuddy\logs\main.log
+2026-11-19 14:56:29,文件,内容修改：C:\Windows\System32\winevt\Logs\Microsoft-Windows-Diagnosis-DPS%4Operational.evtx
+2026-11-19 14:56:29,文件,内容修改：C:\Users\yls\Desktop\pdfview\系统资源监控\Win32-Base\monitor_log.csv
+2026-11-19 14:56:29,文件,内容修改：C:\Users\yls\.workbuddy\logs\daemon.log
+2026-11-19 14:56:29,文件,内容修改：C:\Users\yls\Desktop\pdfview\系统资源监控\Win32-Base\monitor_log.csv
+2026-11-19 14:56:30,文件,内容修改：C:\Windows\System32\winevt\Logs\Microsoft-Windows-Diagnosis-DPS%4Operational.evtx
+2026-11-19 14:56:30,文件,内容修改：C:\Users\yls\Desktop\pdfview\系统资源监控\Win32-Base\monitor_log.csv
+2026-11-19 14:56:30,文件,内容修改：C:\Windows\System32\winevt\Logs\Microsoft-Windows-Diagnosis-DPS%4Operational.evtx
+2026-11-19 14:56:30,文件,内容修改：C:\Users\yls\.workbuddy\app\memory\polling-lease-yls.json
+2026-11-19 14:56:30,文件,内容修改：C:\Users\yls\Desktop\pdfview\系统资源监控\Win32-Base\monitor_log.csv
+2026-11-19 14:56:31,文件,内容修改：C:\Users\yls\.workbuddy\logs\main.log
+2026-11-19 14:56:31,文件,内容修改：C:\Users\yls\.workbuddy\logs\daemon.log
+2026-11-19 14:56:31,文件,内容修改：C:\Windows\System32\winevt\Logs\Microsoft-Windows-Diagnosis-DPS%4Operational.evtx
+2026-11-19 14:56:31,文件,内容修改：C:\Users\yls\Desktop\pdfview\系统资源监控\Win32-Base\monitor_log.csv
+2026-11-19 14:56:31,文件,删除文件：C:\Users\yls\.workbuddy\storage\user-616886e2-731f-485f-9337-c70d5e92db89-personal\global\preferences.json
+2026-11-19 14:56:31,文件,内容修改：C:\Users\yls\.workbuddy\storage\user-616886e2-731f-485f-9337-c70d5e92db89-personal\global
+2026-11-19 14:56:31,文件,内容修改：C:\Windows\Prefetch\AUDIODG.EXE-7294161D.pf
+2026-11-19 14:56:31,文件,内容修改：C:\Windows\Prefetch\WMIPRVSE.EXE-606B6550.pf
+2026-11-19 14:56:31,文件,内容修改：C:\Users\yls\Desktop\pdfview\系统资源监控\Win32-Base\monitor_log.csv
+2026-11-19 14:56:32,文件,内容修改：C:\Windows\System32\winevt\Logs\Microsoft-Windows-Diagnosis-DPS%4Operational.evtx
+2026-11-19 14:56:32,文件,内容修改：C:\Users\yls\.workbuddy\logs\2026-11-19\workbuddyMainThread__7bfaba94ea1b2b634456d0d6e8dc6304.log
+2026-11-19 14:56:32,文件,内容修改：C:\Users\yls\Desktop\pdfview\系统资源监控\Win32-Base\monitor_log.csv
+2026-11-19 14:56:32,文件,内容修改：C:\Windows\System32\winevt\Logs\Microsoft-Windows-Diagnosis-DPS%4Operational.evtx
+2026-11-19 14:56:32,文件,内容修改：C:\Users\yls\Desktop\pdfview\系统资源监控\Win32-Base\monitor_log.csv
+2026-11-19 14:56:33,文件,内容修改：C:\Windows\System32\winevt\Logs\Microsoft-Windows-Diagnosis-DPS%4Operational.evtx
+2026-11-19 14:56:33,文件,内容修改：C:\Users\yls\Desktop\pdfview\系统资源监控\Win32-Base\monitor_log.csv
+2026-11-19 14:56:33,文件,内容修改：C:\Windows\System32\winevt\Logs\Microsoft-Windows-Diagnosis-DPS%4Operational.evtx
+2026-11-19 14:56:33,文件,内容修改：C:\Users\yls\Desktop\pdfview\系统资源监控\Win32-Base\monitor_log.csv
+2026-11-19 14:56:34,文件,内容修改：C:\Users\yls\Desktop\pdfview\系统资源监控\Win32-Base\monitor_log.csv
+2026-11-19 14:56:34,文件,内容修改：C:\Windows\System32\winevt\Logs\Microsoft-Windows-Diagnosis-DPS%4Operational.evtx
+2026-11-19 14:56:34,文件,内容修改：C:\Users\yls\Desktop\pdfview\系统资源监控\Win32-Base\monitor_log.csv
+2026-11-19 14:56:35,文件,内容修改：C:\Windows\System32\winevt\Logs\Microsoft-Windows-Diagnosis-DPS%4Operational.evtx
+2026-11-19 14:56:35,文件,内容修改：C:\Users\yls\.workbuddy\logs\daemon.log
+2026-11-19 14:56:35,文件,内容修改：C:\Users\yls\.workbuddy\logs\2026-11-19\edge-sync.log
+2026-11-19 14:56:35,文件,内容修改：C:\Users\yls\.workbuddy\logs\main.log
+2026-11-19 14:56:35,文件,内容修改：C:\Users\yls\Desktop\pdfview\系统资源监控\Win32-Base\monitor_log.csv
+2026-11-19 14:56:35,文件,内容修改：C:\Users\yls\.workbuddy\app\memory\polling-lease-yls.json
+2026-11-19 14:56:35,文件,内容修改：C:\Windows\System32\winevt\Logs\Microsoft-Windows-Diagnosis-DPS%4Operational.evtx
+2026-11-19 14:56:35,文件,内容修改：C:\Users\yls\Desktop\pdfview\系统资源监控\Win32-Base\monitor_log.csv
+2026-11-19 14:56:36,文件,内容修改：C:\Users\yls\Desktop\pdfview\系统资源监控\Win32-Base\monitor_log.csv
+2026-11-19 14:56:36,文件,内容修改：C:\Windows\System32\winevt\Logs\Microsoft-Windows-Diagnosis-DPS%4Operational.evtx
+2026-11-19 14:56:36,文件,内容修改：C:\Users\yls\Desktop\pdfview\系统资源监控\Win32-Base\monitor_log.csv
+2026-11-19 14:56:37,文件,内容修改：C:\Windows\System32\winevt\Logs\Microsoft-Windows-Diagnosis-DPS%4Operational.evtx
+2026-11-19 14:56:37,文件,内容修改：C:\Users\yls\Desktop\pdfview\系统资源监控\Win32-Base\monitor_log.csv
+2026-11-19 14:56:37,文件,内容修改：C:\Windows\System32\winevt\Logs\Microsoft-Windows-Diagnosis-DPS%4Operational.evtx
+2026-11-19 14:56:37,文件,内容修改：C:\Users\yls\Desktop\pdfview\系统资源监控\Win32-Base\monitor_log.csv
+2026-11-19 14:56:38,文件,内容修改：C:\Users\yls\.workbuddy\logs\main.log
+2026-11-19 14:56:38,文件,内容修改：C:\Windows\System32\winevt\Logs\Microsoft-Windows-Diagnosis-DPS%4Operational.evtx
+2026-11-19 14:56:38,文件,内容修改：C:\Users\yls\Desktop\pdfview\系统资源监控\Win32-Base\monitor_log.csv
+2026-11-19 14:56:38,文件,内容修改：C:\Windows\Prefetch\SEARCHFILTERHOST.EXE-AA802AE6.pf
+2026-11-19 14:56:38,文件,内容修改：C:\Users\yls\Desktop\pdfview\系统资源监控\Win32-Base\monitor_log.csv
+2026-11-19 14:56:39,文件,内容修改：C:\Windows\System32\winevt\Logs\Microsoft-Windows-Diagnosis-DPS%4Operational.evtx
+2026-11-19 14:56:39,文件,内容修改：C:\Users\yls\Desktop\pdfview\系统资源监控\Win32-Base\monitor_log.csv
+2026-11-19 14:56:39,文件,内容修改：C:\Windows\System32\winevt\Logs\Microsoft-Windows-Diagnosis-DPS%4Operational.evtx
+2026-11-19 14:56:39,文件,内容修改：C:\Users\yls\Desktop\pdfview\系统资源监控\Win32-Base\monitor_log.csv
+2026-11-19 14:56:40,文件,内容修改：C:\Users\yls\.workbuddy\logs\2026-11-19\workbuddyMainThread__7bfaba94ea1b2b634456d0d6e8dc6304.log
+2026-11-19 14:56:40,文件,内容修改：C:\Windows\System32\winevt\Logs\Microsoft-Windows-Diagnosis-DPS%4Operational.evtx
+2026-11-19 14:56:40,文件,内容修改：C:\Users\yls\.workbuddy\logs\daemon.log
+2026-11-19 14:56:40,文件,内容修改：C:\Users\yls\Desktop\pdfview\系统资源监控\Win32-Base\monitor_log.csv
+2026-11-19 14:56:40,文件,内容修改：C:\Users\yls\.workbuddy\app\memory\polling-lease-yls.json
+2026-11-19 14:56:40,文件,内容修改：C:\Windows\System32\winevt\Logs\Microsoft-Windows-Diagnosis-DPS%4Operational.evtx
+2026-11-19 14:56:40,文件,内容修改：C:\Users\yls\Desktop\pdfview\系统资源监控\Win32-Base\monitor_log.csv
+2026-11-19 14:56:41,文件,内容修改：C:\Users\yls\Desktop\pdfview\系统资源监控\Win32-Base\monitor_log.csv
+2026-11-19 14:56:41,文件,内容修改：C:\Windows\System32\winevt\Logs\Microsoft-Windows-Diagnosis-DPS%4Operational.evtx
+2026-11-19 14:56:41,文件,内容修改：C:\Users\yls\AppData\Roaming\GitHub Desktop
+2026-11-19 14:56:41,文件,内容修改：C:\Users\yls\AppData\Local\Temp
+2026-11-19 14:56:41,文件,内容修改：C:\Users\yls\Desktop\pdfview\系统资源监控\Win32-Base\monitor_log.csv
+2026-11-19 14:57:49,文件,删除文件夹：D:\yang2020\yls\samples\demo_监视系统操作\__history
+2026-11-19 14:57:49,文件,删除文件夹：D:\yang2020\yls\samples\demo_监视系统操作
+2026-11-19 14:57:49,文件,内容修改：D:\yang2020\yls\samples
+2026-11-19 14:58:38,文件,内容修改：D:\tools\Notepad2\notepad2-v4.21.11\Notepad2.ini
+2026-11-19 14:59:32,文件,内容修改：E:\DISK刻盘\indexdat\web\tools\AdbeRdr810_zh_CN.exe
+2026-11-19 14:59:35,文件,内容修改：E:\DISK刻盘\indexdat\web\tools\eudc.exe
+2026-11-19 14:59:59,告警,CPU 使用率 90.2%，超过阈值 90% | CPU 占用最高的 3 个程序：shchrome.exe（11.7%）、MsMpEng.exe（10.5%）、ctfmon.exe（8.3%） | 
+2026-11-19 15:00:09,文件,内容修改：E:\Downloads\cloudscape-wallpaper_lv.exe
+2026-11-19 15:00:09,文件,内容修改：E:\Downloads\Inst1__3113074__3f7372633d6c6d266c733d6e37313739326335396131__68616f2e3336302e636f6d__0cad.exe
+2026-11-19 15:00:09,文件,内容修改：E:\Downloads\setup.exe
+2026-11-19 15:00:30,文件,内容修改：E:\git_project\smart_stock\stock.exe
+2026-11-19 15:00:35,告警,CPU 使用率 94.1%，超过阈值 90% | CPU 占用最高的 3 个程序：shchrome.exe（9.6%）、ctfmon.exe（8.4%）、svchost.exe（8.4%） | 
+2026-11-19 15:00:35,文件,创建文件夹：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\Win32\Release\2026年度股票历史数据\2026-11-19
+2026-11-19 15:00:35,文件,创建文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\Win32\Release\2026年度股票历史数据\2026-11-19\2026-11-19_sh600170.txt
+2026-11-19 15:00:35,文件,内容修改：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\Win32\Release\2026年度股票历史数据\2026-11-19\2026-11-19_sh600170.txt
+2026-11-19 15:00:35,文件,创建文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\Win32\Release\2026年度股票历史数据\2026-11-19\2026-11-19_sh600170.bmp
+2026-11-19 15:00:35,文件,内容修改：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\Win32\Release\2026年度股票历史数据\2026-11-19\2026-11-19_sh600170.bmp
+2026-11-19 15:00:40,文件,创建文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\Win32\Release\2026年度股票历史数据\2026-11-19\2026-11-19_sh600008.txt
+2026-11-19 15:00:40,文件,内容修改：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\Win32\Release\2026年度股票历史数据\2026-11-19\2026-11-19_sh600008.txt
+2026-11-19 15:00:40,文件,创建文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\Win32\Release\2026年度股票历史数据\2026-11-19\2026-11-19_sh600008.bmp
+2026-11-19 15:00:40,文件,内容修改：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\Win32\Release\2026年度股票历史数据\2026-11-19\2026-11-19_sh600008.bmp
+2026-11-19 15:00:45,文件,创建文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\Win32\Release\2026年度股票历史数据\2026-11-19\2026-11-19_sh601619.txt
+2026-11-19 15:00:45,文件,内容修改：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\Win32\Release\2026年度股票历史数据\2026-11-19\2026-11-19_sh601619.txt
+2026-11-19 15:00:45,文件,创建文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\Win32\Release\2026年度股票历史数据\2026-11-19\2026-11-19_sh601619.bmp
+2026-11-19 15:00:45,文件,内容修改：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\Win32\Release\2026年度股票历史数据\2026-11-19\2026-11-19_sh601619.bmp
+2026-11-19 15:00:49,文件,创建文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\Win32\Release\2026年度股票历史数据\2026-11-19\2026-11-19_sh601929.txt
+2026-11-19 15:00:49,文件,内容修改：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\Win32\Release\2026年度股票历史数据\2026-11-19\2026-11-19_sh601929.txt
+2026-11-19 15:00:49,文件,创建文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\Win32\Release\2026年度股票历史数据\2026-11-19\2026-11-19_sh601929.bmp
+2026-11-19 15:00:49,文件,内容修改：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\Win32\Release\2026年度股票历史数据\2026-11-19\2026-11-19_sh601929.bmp
+2026-11-19 15:01:22,文件,内容修改：E:\hfs_share_dir\admins\FeiQ.exe
+2026-11-19 15:01:23,文件,内容修改：E:\hfs_share_dir\FeiQ.exe
+2026-11-19 15:05:37,文件,内容修改：D:\ChromeCoreDownloads
+2026-11-19 15:05:46,文件,创建文件：D:\ChromeCoreDownloads\Go语言+Fyne快速上手教程\未确认 139289.crdownload
+2026-11-19 15:05:53,文件,删除文件：D:\ChromeCoreDownloads\Go语言+Fyne快速上手教程\未确认 139289.crdownload
+2026-11-19 15:05:54,文件,创建文件：D:\ChromeCoreDownloads\Go语言+Fyne快速上手教程\AriaNgEdge-master([WebView4Delphi_实例]).zip
+2026-11-19 15:07:04,告警,CPU 使用率 93.7%，超过阈值 90% | CPU 占用最高的 3 个程序：shchrome.exe（8.7%）、svchost.exe（8.4%）、ctfmon.exe（8.3%） | 
+2026-11-19 15:08:43,文件,内容修改：D:\ChromeCoreDownloads
+2026-11-19 15:08:46,文件,创建文件：D:\ChromeCoreDownloads\Go语言+Fyne快速上手教程\未确认 429036.crdownload
+2026-11-19 15:08:53,文件,删除文件：D:\ChromeCoreDownloads\Go语言+Fyne快速上手教程\未确认 429036.crdownload
+2026-11-19 15:08:53,文件,创建文件：D:\ChromeCoreDownloads\Go语言+Fyne快速上手教程\HTML-To-Delphi-FMX-main(AI agent skills).zip
+2026-11-19 15:10:47,文件,内容修改：E:\laz3.3\fpc\bin\x86_64-win64\ar.exe
+2026-11-19 15:10:47,文件,内容修改：E:\laz3.3\fpc\bin\x86_64-win64\as.exe
+2026-11-19 15:10:47,文件,内容修改：E:\laz3.3\fpc\bin\x86_64-win64\bin2obj.exe
+2026-11-19 15:10:47,文件,内容修改：E:\laz3.3\fpc\bin\x86_64-win64\cldrparser.exe
+2026-11-19 15:10:47,文件,内容修改：E:\laz3.3\fpc\bin\x86_64-win64\cmp.exe
+2026-11-19 15:10:47,文件,内容修改：E:\laz3.3\fpc\bin\x86_64-win64\compileserver.exe
+2026-11-19 15:10:47,文件,内容修改：E:\laz3.3\fpc\bin\x86_64-win64\cp.exe
+2026-11-19 15:10:47,文件,内容修改：E:\laz3.3\fpc\bin\x86_64-win64\cpp.exe
+2026-11-19 15:10:47,文件,内容修改：E:\laz3.3\fpc\bin\x86_64-win64\data2inc.exe
+2026-11-19 15:10:47,文件,内容修改：E:\laz3.3\fpc\bin\x86_64-win64\delp.exe
+2026-11-19 15:10:47,文件,内容修改：E:\laz3.3\fpc\bin\x86_64-win64\diff.exe
+2026-11-19 15:10:47,文件,内容修改：E:\laz3.3\fpc\bin\x86_64-win64\dlltool.exe
+2026-11-19 15:10:47,文件,内容修改：E:\laz3.3\fpc\bin\x86_64-win64\dts2pas.exe
+2026-11-19 15:10:48,文件,内容修改：E:\laz3.3\fpc\bin\x86_64-win64\eawparser.exe
+2026-11-19 15:10:48,文件,内容修改：E:\laz3.3\fpc\bin\x86_64-win64\fp.exe
+2026-11-19 15:10:48,文件,内容修改：E:\laz3.3\fpc\bin\x86_64-win64\fpc.exe
+2026-11-19 15:10:48,文件,内容修改：E:\laz3.3\fpc\bin\x86_64-win64\fpcjres.exe
+2026-11-19 15:10:48,文件,内容修改：E:\laz3.3\fpc\bin\x86_64-win64\fpclasschart.exe
+2026-11-19 15:10:48,文件,内容修改：E:\laz3.3\fpc\bin\x86_64-win64\fpcmake.exe
+2026-11-19 15:10:48,文件,内容修改：E:\laz3.3\fpc\bin\x86_64-win64\fpcmkcfg.exe
+2026-11-19 15:10:48,文件,内容修改：E:\laz3.3\fpc\bin\x86_64-win64\fpcres.exe
+2026-11-19 15:10:48,文件,内容修改：E:\laz3.3\fpc\bin\x86_64-win64\fpcreslipo.exe
+2026-11-19 15:10:48,文件,内容修改：E:\laz3.3\fpc\bin\x86_64-win64\fpcsubst.exe
+2026-11-19 15:10:49,文件,内容修改：E:\laz3.3\fpc\bin\x86_64-win64\fpdoc.exe
+2026-11-19 15:10:49,文件,内容修改：E:\laz3.3\fpc\bin\x86_64-win64\fpmc.exe
+2026-11-19 15:10:49,文件,内容修改：E:\laz3.3\fpc\bin\x86_64-win64\fppkg.exe
+2026-11-19 15:10:49,文件,内容修改：E:\laz3.3\fpc\bin\x86_64-win64\fprcp.exe
+2026-11-19 15:10:49,文件,内容修改：E:\laz3.3\fpc\bin\x86_64-win64\gbpparser.exe
+2026-11-19 15:10:49,文件,内容修改：E:\laz3.3\fpc\bin\x86_64-win64\gcc.exe
+2026-11-19 15:10:49,文件,内容修改：E:\laz3.3\fpc\bin\x86_64-win64\gdate.exe
+2026-11-19 15:10:50,文件,内容修改：E:\laz3.3\fpc\bin\x86_64-win64\gdb.exe
+2026-11-19 15:10:50,文件,内容修改：E:\laz3.3\fpc\bin\x86_64-win64\gecho.exe
+2026-11-19 15:10:50,文件,内容修改：E:\laz3.3\fpc\bin\x86_64-win64\ginstall.exe
+2026-11-19 15:10:50,文件,内容修改：E:\laz3.3\fpc\bin\x86_64-win64\gmkdir.exe
+2026-11-19 15:10:50,文件,内容修改：E:\laz3.3\fpc\bin\x86_64-win64\grep.exe
+2026-11-19 15:10:50,文件,内容修改：E:\laz3.3\fpc\bin\x86_64-win64\h2pas.exe
+2026-11-19 15:10:51,文件,内容修改：E:\laz3.3\fpc\bin\x86_64-win64\h2paschk.exe
+2026-11-19 15:10:51,文件,内容修改：E:\laz3.3\fpc\bin\x86_64-win64\h2paspp.exe
+2026-11-19 15:10:51,文件,内容修改：E:\laz3.3\fpc\bin\x86_64-win64\ihxutil.exe
+2026-11-19 15:10:51,文件,内容修改：E:\laz3.3\fpc\bin\x86_64-win64\importtl.exe
+2026-11-19 15:10:51,文件,内容修改：E:\laz3.3\fpc\bin\x86_64-win64\instantfpc.exe
+2026-11-19 15:10:51,文件,内容修改：E:\laz3.3\fpc\bin\x86_64-win64\json2pas.exe
+2026-11-19 15:10:51,文件,内容修改：E:\laz3.3\fpc\bin\x86_64-win64\ld.exe
+2026-11-19 15:10:51,文件,内容修改：E:\laz3.3\fpc\bin\x86_64-win64\make.exe
+2026-11-19 15:10:52,文件,内容修改：E:\laz3.3\fpc\bin\x86_64-win64\makeskel.exe
+2026-11-19 15:10:52,文件,内容修改：E:\laz3.3\fpc\bin\x86_64-win64\mka64ins.exe
+2026-11-19 15:10:52,文件,内容修改：E:\laz3.3\fpc\bin\x86_64-win64\mkarmins.exe
+2026-11-19 15:10:52,文件,内容修改：E:\laz3.3\fpc\bin\x86_64-win64\mkinsadd.exe
+2026-11-19 15:10:52,文件,内容修改：E:\laz3.3\fpc\bin\x86_64-win64\mkx86inl.exe
+2026-11-19 15:10:52,文件,内容修改：E:\laz3.3\fpc\bin\x86_64-win64\mkx86ins.exe
+2026-11-19 15:10:52,文件,内容修改：E:\laz3.3\fpc\bin\x86_64-win64\mkz80ins.exe
+2026-11-19 15:10:52,文件,内容修改：E:\laz3.3\fpc\bin\x86_64-win64\msg2inc.exe
+2026-11-19 15:10:52,文件,内容修改：E:\laz3.3\fpc\bin\x86_64-win64\mv.exe
+2026-11-19 15:10:52,文件,内容修改：E:\laz3.3\fpc\bin\x86_64-win64\nm.exe
+2026-11-19 15:10:52,文件,内容修改：E:\laz3.3\fpc\bin\x86_64-win64\objdump.exe
+2026-11-19 15:10:52,文件,内容修改：E:\laz3.3\fpc\bin\x86_64-win64\pas2fpm.exe
+2026-11-19 15:10:52,文件,内容修改：E:\laz3.3\fpc\bin\x86_64-win64\pas2jni.exe
+2026-11-19 15:10:53,文件,内容修改：E:\laz3.3\fpc\bin\x86_64-win64\pas2js.exe
+2026-11-19 15:10:53,文件,内容修改：E:\laz3.3\fpc\bin\x86_64-win64\pas2ut.exe
+2026-11-19 15:10:53,文件,内容修改：E:\laz3.3\fpc\bin\x86_64-win64\patch.exe
+2026-11-19 15:10:53,文件,内容修改：E:\laz3.3\fpc\bin\x86_64-win64\plex.exe
+2026-11-19 15:10:53,文件,内容修改：E:\laz3.3\fpc\bin\x86_64-win64\postw32.exe
+2026-11-19 15:10:53,文件,内容修改：E:\laz3.3\fpc\bin\x86_64-win64\ppcx64.exe
+2026-11-19 15:10:53,文件,内容修改：E:\laz3.3\fpc\bin\x86_64-win64\ppdep.exe
+2026-11-19 15:10:53,文件,内容修改：E:\laz3.3\fpc\bin\x86_64-win64\ppudump.exe
+2026-11-19 15:10:53,文件,内容修改：E:\laz3.3\fpc\bin\x86_64-win64\ppufiles.exe
+2026-11-19 15:10:53,文件,内容修改：E:\laz3.3\fpc\bin\x86_64-win64\ppumove.exe
+2026-11-19 15:10:53,文件,内容修改：E:\laz3.3\fpc\bin\x86_64-win64\ptop.exe
+2026-11-19 15:10:53,文件,内容修改：E:\laz3.3\fpc\bin\x86_64-win64\pwd.exe
+2026-11-19 15:10:53,文件,内容修改：E:\laz3.3\fpc\bin\x86_64-win64\pyacc.exe
+2026-11-19 15:10:53,文件,内容修改：E:\laz3.3\fpc\bin\x86_64-win64\rm.exe
+2026-11-19 15:10:54,文件,内容修改：E:\laz3.3\fpc\bin\x86_64-win64\rmcvsdir.exe
+2026-11-19 15:10:54,文件,内容修改：E:\laz3.3\fpc\bin\x86_64-win64\rmwait.exe
+2026-11-19 15:10:54,文件,内容修改：E:\laz3.3\fpc\bin\x86_64-win64\rstconv.exe
+2026-11-19 15:10:54,文件,内容修改：E:\laz3.3\fpc\bin\x86_64-win64\unihelper.exe
+2026-11-19 15:10:54,文件,内容修改：E:\laz3.3\fpc\bin\x86_64-win64\unitdiff.exe
+2026-11-19 15:10:57,文件,内容修改：E:\laz3.3\fpc\bin\x86_64-win64\unzip.exe
+2026-11-19 15:10:57,文件,内容修改：E:\laz3.3\fpc\bin\x86_64-win64\wasa.exe
+2026-11-19 15:10:57,文件,内容修改：E:\laz3.3\fpc\bin\x86_64-win64\wasmtool.exe
+2026-11-19 15:10:57,文件,内容修改：E:\laz3.3\fpc\bin\x86_64-win64\webidl2pas.exe
+2026-11-19 15:10:57,文件,内容修改：E:\laz3.3\fpc\bin\x86_64-win64\windres.exe
+2026-11-19 15:10:57,文件,内容修改：E:\laz3.3\fpc\bin\x86_64-win64\zip.exe
+2026-11-19 15:11:01,文件,内容修改：D:\lazarus30\fpc\3.2.2\bin\i386-win32\as.exe
+2026-11-19 15:11:01,文件,内容修改：D:\lazarus30\fpc\3.2.2\bin\i386-win32\bin2obj.exe
+2026-11-19 15:11:02,文件,内容修改：D:\lazarus30\fpc\3.2.2\bin\i386-win32\chmcmd.exe
+2026-11-19 15:11:03,文件,内容修改：D:\tools\海螺快搜\config.ini
+2026-11-19 15:11:03,文件,内容修改：D:\lazarus30\fpc\3.2.2\bin\i386-win32\chmls.exe
+2026-11-19 15:11:04,文件,内容修改：D:\lazarus30\fpc\3.2.2\bin\i386-win32\cldrparser.exe
+2026-11-19 15:11:05,文件,内容修改：D:\lazarus30\fpc\3.2.2\bin\i386-win32\cmp.exe
+2026-11-19 15:11:06,文件,内容修改：D:\lazarus30\fpc\3.2.2\bin\i386-win32\compileserver.exe
+2026-11-19 15:11:06,文件,内容修改：D:\lazarus30\fpc\3.2.2\bin\i386-win32\cp.exe
+2026-11-19 15:11:06,文件,内容修改：D:\lazarus30\fpc\3.2.2\bin\i386-win32\cpp.exe
+2026-11-19 15:11:06,文件,内容修改：D:\lazarus30\fpc\3.2.2\bin\i386-win32\data2inc.exe
+2026-11-19 15:11:06,文件,内容修改：D:\lazarus30\fpc\3.2.2\bin\i386-win32\diff.exe
+2026-11-19 15:11:06,文件,内容修改：D:\lazarus30\fpc\3.2.2\bin\i386-win32\dlltool.exe
+2026-11-19 15:11:06,文件,内容修改：D:\lazarus30\fpc\3.2.2\bin\i386-win32\fp.exe
+2026-11-19 15:11:07,文件,内容修改：D:\lazarus30\fpc\3.2.2\bin\i386-win32\fpc.exe
+2026-11-19 15:11:08,文件,内容修改：D:\lazarus30\fpc\3.2.2\bin\i386-win32\fpcjres.exe
+2026-11-19 15:11:09,文件,内容修改：D:\lazarus30\fpc\3.2.2\bin\i386-win32\fpclasschart.exe
+2026-11-19 15:11:10,文件,内容修改：D:\lazarus30\fpc\3.2.2\bin\i386-win32\fpcmake.exe
+2026-11-19 15:11:11,告警,CPU 使用率 98.0%，超过阈值 90% | CPU 占用最高的 3 个程序：MsMpEng.exe（16.5%）、shchrome.exe（11.5%）、svchost.exe（8.5%） | 
+2026-11-19 15:11:13,文件,内容修改：D:\lazarus30\fpc\3.2.2\bin\i386-win32\fpcmkcfg.exe
+2026-11-19 15:11:13,文件,内容修改：D:\lazarus30\fpc\3.2.2\bin\i386-win32\fpcres.exe
+2026-11-19 15:11:14,文件,内容修改：D:\lazarus30\fpc\3.2.2\bin\i386-win32\fpdoc.exe
+2026-11-19 15:11:15,文件,内容修改：D:\lazarus30\fpc\3.2.2\bin\i386-win32\fpmc.exe
+2026-11-19 15:11:16,文件,内容修改：D:\lazarus30\fpc\3.2.2\bin\i386-win32\fppkg.exe
+2026-11-19 15:11:17,文件,内容修改：D:\lazarus30\fpc\3.2.2\bin\i386-win32\fprcp.exe
+2026-11-19 15:11:17,文件,内容修改：D:\lazarus30\fpc\3.2.2\bin\i386-win32\gcc.exe
+2026-11-19 15:11:17,文件,内容修改：D:\lazarus30\fpc\3.2.2\bin\i386-win32\gdate.exe
+2026-11-19 15:11:17,文件,内容修改：D:\lazarus30\fpc\3.2.2\bin\i386-win32\gecho.exe
+2026-11-19 15:11:18,文件,内容修改：D:\lazarus30\fpc\3.2.2\bin\i386-win32\ginstall.exe
+2026-11-19 15:11:18,文件,内容修改：D:\lazarus30\fpc\3.2.2\bin\i386-win32\gmkdir.exe
+2026-11-19 15:11:18,文件,内容修改：D:\lazarus30\fpc\3.2.2\bin\i386-win32\grep.exe
+2026-11-19 15:11:19,文件,内容修改：D:\lazarus30\fpc\3.2.2\bin\i386-win32\h2pas.exe
+2026-11-19 15:11:19,文件,内容修改：D:\lazarus30\fpc\3.2.2\bin\i386-win32\h2paspp.exe
+2026-11-19 15:11:20,文件,内容修改：D:\lazarus30\fpc\3.2.2\bin\i386-win32\importtl.exe
+2026-11-19 15:11:21,文件,内容修改：D:\lazarus30\fpc\3.2.2\bin\i386-win32\instantfpc.exe
+2026-11-19 15:11:22,文件,内容修改：D:\lazarus30\fpc\3.2.2\bin\i386-win32\json2pas.exe
+2026-11-19 15:11:22,文件,内容修改：D:\lazarus30\fpc\3.2.2\bin\i386-win32\ld.exe
+2026-11-19 15:11:23,文件,内容修改：D:\lazarus30\fpc\3.2.2\bin\i386-win32\make.exe
+2026-11-19 15:11:25,文件,内容修改：D:\lazarus30\fpc\3.2.2\bin\i386-win32\makeskel.exe
+2026-11-19 15:11:25,文件,内容修改：D:\lazarus30\fpc\3.2.2\bin\i386-win32\mka64ins.exe
+2026-11-19 15:11:25,文件,内容修改：D:\lazarus30\fpc\3.2.2\bin\i386-win32\mkarmins.exe
+2026-11-19 15:11:25,文件,内容修改：D:\lazarus30\fpc\3.2.2\bin\i386-win32\mkinsadd.exe
+2026-11-19 15:11:25,文件,内容修改：D:\lazarus30\fpc\3.2.2\bin\i386-win32\mkx86ins.exe
+2026-11-19 15:11:25,文件,内容修改：D:\lazarus30\fpc\3.2.2\bin\i386-win32\mv.exe
+2026-11-19 15:11:25,文件,内容修改：D:\lazarus30\fpc\3.2.2\bin\i386-win32\nm.exe
+2026-11-19 15:11:25,文件,内容修改：D:\lazarus30\fpc\3.2.2\bin\i386-win32\objcopy.exe
+2026-11-19 15:11:25,文件,内容修改：D:\lazarus30\fpc\3.2.2\bin\i386-win32\objdump.exe
+2026-11-19 15:11:26,文件,内容修改：D:\lazarus30\fpc\3.2.2\bin\i386-win32\pas2fpm.exe
+2026-11-19 15:11:27,文件,内容修改：D:\lazarus30\fpc\3.2.2\bin\i386-win32\pas2js.exe
+2026-11-19 15:11:28,文件,内容修改：D:\lazarus30\fpc\3.2.2\bin\i386-win32\pas2ut.exe
+2026-11-19 15:11:28,文件,内容修改：D:\lazarus30\fpc\3.2.2\bin\i386-win32\patch.exe
+2026-11-19 15:11:28,文件,内容修改：D:\lazarus30\fpc\3.2.2\bin\i386-win32\plex.exe
+2026-11-19 15:11:28,文件,内容修改：D:\lazarus30\fpc\3.2.2\bin\i386-win32\postw32.exe
+2026-11-19 15:11:30,文件,内容修改：D:\lazarus30\fpc\3.2.2\bin\i386-win32\ppc386.exe
+2026-11-19 15:11:30,文件,内容修改：D:\lazarus30\fpc\3.2.2\bin\i386-win32\ppdep.exe
+2026-11-19 15:11:31,文件,内容修改：D:\lazarus30\fpc\3.2.2\bin\i386-win32\ppudump.exe
+2026-11-19 15:11:31,文件,内容修改：D:\lazarus30\fpc\3.2.2\bin\i386-win32\ppufiles.exe
+2026-11-19 15:11:32,文件,内容修改：D:\lazarus30\fpc\3.2.2\bin\i386-win32\ppumove.exe
+2026-11-19 15:11:33,文件,内容修改：D:\lazarus30\fpc\3.2.2\bin\i386-win32\ptop.exe
+2026-11-19 15:11:33,文件,内容修改：D:\lazarus30\fpc\3.2.2\bin\i386-win32\pwd.exe
+2026-11-19 15:11:33,文件,内容修改：D:\lazarus30\fpc\3.2.2\bin\i386-win32\pyacc.exe
+2026-11-19 15:11:33,文件,内容修改：D:\lazarus30\fpc\3.2.2\bin\i386-win32\rm.exe
+2026-11-19 15:11:34,文件,内容修改：D:\lazarus30\fpc\3.2.2\bin\i386-win32\rmcvsdir.exe
+2026-11-19 15:11:36,文件,内容修改：D:\lazarus30\fpc\3.2.2\bin\i386-win32\rstconv.exe
+2026-11-19 15:11:36,文件,内容修改：D:\lazarus30\fpc\3.2.2\bin\i386-win32\unihelper.exe
+2026-11-19 15:11:37,文件,内容修改：D:\lazarus30\fpc\3.2.2\bin\i386-win32\unitdiff.exe
+2026-11-19 15:11:37,文件,内容修改：D:\lazarus30\fpc\3.2.2\bin\i386-win32\unzip.exe
+2026-11-19 15:11:38,文件,内容修改：D:\lazarus30\fpc\3.2.2\bin\i386-win32\webidl2pas.exe
+2026-11-19 15:11:38,文件,内容修改：D:\lazarus30\fpc\3.2.2\bin\i386-win32\windres.exe
+2026-11-19 15:11:38,文件,内容修改：D:\lazarus30\fpc\3.2.2\bin\i386-win32\zip.exe
+2026-11-19 15:13:12,文件,内容修改：D:\ChromeCoreDownloads
+2026-11-19 15:13:21,文件,创建文件：D:\ChromeCoreDownloads\Go语言+Fyne快速上手教程\未确认 991555.crdownload
+2026-11-19 15:13:28,文件,删除文件：D:\ChromeCoreDownloads\Go语言+Fyne快速上手教程\未确认 991555.crdownload
+2026-11-19 15:13:28,文件,创建文件：D:\ChromeCoreDownloads\Go语言+Fyne快速上手教程\[laz]NodePusher-main(produce JSON text， YAML text， or an in-memory TJSONData tree).zip
+2026-11-19 15:14:50,文件,内容修改：D:\ChromeCoreDownloads
+2026-11-19 15:14:58,文件,创建文件：D:\ChromeCoreDownloads\Go语言+Fyne快速上手教程\未确认 41350.crdownload
+2026-11-19 15:15:05,文件,删除文件：D:\ChromeCoreDownloads\Go语言+Fyne快速上手教程\未确认 41350.crdownload
+2026-11-19 15:15:05,文件,创建文件：D:\ChromeCoreDownloads\Go语言+Fyne快速上手教程\[laz]JsonPuller-main(JSON拉取解析器).zip
+2026-11-19 15:17:47,文件,创建文件：D:\ChromeCoreDownloads\Go语言+Fyne快速上手教程\未确认 19981.crdownload
+2026-11-19 15:17:47,文件,内容修改：D:\ChromeCoreDownloads
+2026-11-19 15:17:54,文件,删除文件：D:\ChromeCoreDownloads\Go语言+Fyne快速上手教程\未确认 19981.crdownload
+2026-11-19 15:17:54,文件,创建文件：D:\ChromeCoreDownloads\Go语言+Fyne快速上手教程\DelphiHookUtils-master.zip
+2026-11-19 15:18:02,文件,删除文件：D:\ChromeCoreDownloads\Go语言+Fyne快速上手教程\DelphiHookUtils-master.zip
+2026-11-19 15:18:02,文件,创建文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\3rdLibs\libs_HookUtils\DelphiHookUtils-master.zip
+2026-11-19 15:18:02,文件,内容修改：D:\yang2020\杨良山\通用工具\新的多线程下载演示\3rdLibs\libs_HookUtils
+2026-11-19 15:19:33,文件,内容修改：D:\tools\Notepad2\notepad2-v4.21.11\Notepad2.ini
+2026-11-19 15:20:00,文件,删除文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\3rdLibs\libs_HookUtils
+2026-11-19 15:20:00,文件,删除文件夹：D:\yang2020\杨良山\通用工具\新的多线程下载演示\3rdLibs\libs_HookUtils
+2026-11-19 15:20:00,文件,删除文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\3rdLibs\libs_HookUtils\Delphi 搜索特征码.txt
+2026-11-19 15:20:00,文件,删除文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\3rdLibs\libs_HookUtils\DelphiHookUtils-master(Delphi Hooking Library).zip
+2026-11-19 15:20:00,文件,删除文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\3rdLibs\libs_HookUtils\DelphiHookUtils-master.zip
+2026-11-19 15:20:00,文件,删除文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\3rdLibs\libs_HookUtils\url.txt
+2026-11-19 15:20:00,文件,删除文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\3rdLibs\libs_HookUtils\学习研究HookUtils.txt
+2026-11-19 15:20:01,文件,内容修改：D:\yang2020\杨良山\通用工具\新的多线程下载演示\3rdLibs
+2026-11-19 15:20:09,文件,内容修改：E:\laz3.3\fpcbootstrap\7Zip\7za.exe
+2026-11-19 15:20:10,文件,内容修改：E:\laz3.3\fpcbootstrap\as.exe
+2026-11-19 15:20:10,文件,内容修改：E:\laz3.3\fpcbootstrap\cmp.exe
+2026-11-19 15:20:10,文件,内容修改：E:\laz3.3\fpcbootstrap\cp.exe
+2026-11-19 15:20:10,文件,内容修改：E:\laz3.3\fpcbootstrap\cpp.exe
+2026-11-19 15:20:10,文件,内容修改：E:\laz3.3\fpcbootstrap\diff.exe
+2026-11-19 15:20:10,文件,内容修改：E:\laz3.3\fpcbootstrap\dlltool.exe
+2026-11-19 15:20:10,文件,内容修改：E:\laz3.3\fpcbootstrap\gcc.exe
+2026-11-19 15:20:10,文件,内容修改：E:\laz3.3\fpcbootstrap\gdate.exe
+2026-11-19 15:20:16,文件,内容修改：E:\laz3.3\fpcbootstrap\gdb\i386-win32\gdb.exe
+2026-11-19 15:20:19,文件,内容修改：E:\laz3.3\fpcbootstrap\gdb\x86_64-win64\gdb.exe
+2026-11-19 15:20:22,文件,内容修改：E:\laz3.3\fpcbootstrap\gdb.exe
+2026-11-19 15:20:22,文件,内容修改：E:\laz3.3\fpcbootstrap\gecho.exe
+2026-11-19 15:20:22,文件,内容修改：E:\laz3.3\fpcbootstrap\ginstall.exe
+2026-11-19 15:20:22,文件,内容修改：E:\laz3.3\fpcbootstrap\gmkdir.exe
+2026-11-19 15:20:22,文件,内容修改：E:\laz3.3\fpcbootstrap\grep.exe
+2026-11-19 15:20:25,文件,内容修改：E:\laz3.3\fpcbootstrap\hg\hg.exe
+2026-11-19 15:20:29,文件,内容修改：E:\laz3.3\fpcbootstrap\ld.exe
+2026-11-19 15:20:29,文件,内容修改：E:\laz3.3\fpcbootstrap\make.exe
+2026-11-19 15:20:29,文件,内容修改：E:\laz3.3\fpcbootstrap\mv.exe
+2026-11-19 15:20:29,文件,内容修改：E:\laz3.3\fpcbootstrap\nm.exe
+2026-11-19 15:20:29,文件,内容修改：E:\laz3.3\fpcbootstrap\objdump.exe
+2026-11-19 15:20:29,文件,内容修改：E:\laz3.3\fpcbootstrap\patch.exe
+2026-11-19 15:20:29,文件,内容修改：E:\laz3.3\fpcbootstrap\ppcx64.exe
+2026-11-19 15:20:29,文件,内容修改：E:\laz3.3\fpcbootstrap\pwd.exe
+2026-11-19 15:20:30,文件,内容修改：E:\laz3.3\fpcbootstrap\rm.exe
+2026-11-19 15:20:34,文件,内容修改：E:\laz3.3\fpcbootstrap\svn\bin\svn.exe
+2026-11-19 15:20:34,文件,内容修改：E:\laz3.3\fpcbootstrap\svn\bin\svnadmin.exe
+2026-11-19 15:20:34,文件,内容修改：E:\laz3.3\fpcbootstrap\svn\bin\svnbench.exe
+2026-11-19 15:20:34,文件,内容修改：E:\laz3.3\fpcbootstrap\svn\bin\svndumpfilter.exe
+2026-11-19 15:20:34,文件,内容修改：E:\laz3.3\fpcbootstrap\svn\bin\svnfsfs.exe
+2026-11-19 15:20:34,文件,内容修改：E:\laz3.3\fpcbootstrap\svn\bin\svnlook.exe
+2026-11-19 15:20:34,文件,内容修改：E:\laz3.3\fpcbootstrap\svn\bin\svnmucc.exe
+2026-11-19 15:20:34,文件,内容修改：E:\laz3.3\fpcbootstrap\svn\bin\svnrdump.exe
+2026-11-19 15:20:34,文件,内容修改：E:\laz3.3\fpcbootstrap\svn\bin\svnserve.exe
+2026-11-19 15:20:34,文件,内容修改：E:\laz3.3\fpcbootstrap\svn\bin\svnsync.exe
+2026-11-19 15:20:34,文件,内容修改：E:\laz3.3\fpcbootstrap\svn\bin\svnversion.exe
+2026-11-19 15:20:44,文件,内容修改：E:\laz3.3\fpcbootstrap\unrar\bin\unrar.exe
+2026-11-19 15:20:49,文件,内容修改：D:\tools\Notepad2\notepad2-v4.21.11\Notepad2.ini
+2026-11-19 15:21:11,文件,内容修改：E:\laz3.3\fpcbootstrap\unzip.exe
+2026-11-19 15:21:11,文件,内容修改：E:\laz3.3\fpcbootstrap\windres.exe
+2026-11-19 15:21:11,文件,内容修改：E:\laz3.3\fpcbootstrap\zip.exe
+2026-11-19 15:23:13,文件,内容修改：D:\ChromeCoreDownloads
+2026-11-19 15:23:16,文件,创建文件：D:\ChromeCoreDownloads\Go语言+Fyne快速上手教程\未确认 603604.crdownload
+2026-11-19 15:23:30,文件,内容修改：D:\ChromeCoreDownloads\Go语言+Fyne快速上手教程\未确认 603604.crdownload
+2026-11-19 15:23:37,文件,删除文件：D:\ChromeCoreDownloads\Go语言+Fyne快速上手教程\未确认 603604.crdownload
+2026-11-19 15:23:37,文件,创建文件：D:\ChromeCoreDownloads\Go语言+Fyne快速上手教程\SkiaGooGame-main（FMX.Skia）.zip
+2026-11-19 15:26:48,文件,创建文件：D:\ChromeCoreDownloads\Go语言+Fyne快速上手教程\未确认 820257.crdownload
+2026-11-19 15:26:48,文件,内容修改：D:\ChromeCoreDownloads
+2026-11-19 15:26:51,文件,内容修改：D:\ChromeCoreDownloads\Go语言+Fyne快速上手教程\未确认 820257.crdownload
+2026-11-19 15:26:57,文件,删除文件：D:\ChromeCoreDownloads\Go语言+Fyne快速上手教程\未确认 820257.crdownload
+2026-11-19 15:26:57,文件,创建文件：D:\ChromeCoreDownloads\Go语言+Fyne快速上手教程\screenDefByTMSBox-main.zip
+2026-11-19 15:31:25,文件,创建文件：D:\ChromeCoreDownloads\Go语言+Fyne快速上手教程\未确认 163120.crdownload
+2026-11-19 15:31:25,文件,内容修改：D:\ChromeCoreDownloads
+2026-11-19 15:31:28,告警,CPU 使用率 92.9%，超过阈值 90% | CPU 占用最高的 3 个程序：shchrome.exe（11.9%）、ctfmon.exe（8.4%）、360AP.exe（8.1%） | 
+2026-11-19 15:31:32,文件,删除文件：D:\ChromeCoreDownloads\Go语言+Fyne快速上手教程\未确认 163120.crdownload
+2026-11-19 15:31:32,文件,创建文件：D:\ChromeCoreDownloads\Go语言+Fyne快速上手教程\delphi_treeview_balloon_notify-master.zip
+2026-11-19 15:37:08,文件,创建文件：D:\ChromeCoreDownloads\Go语言+Fyne快速上手教程\未确认 580799.crdownload
+2026-11-19 15:37:08,文件,内容修改：D:\ChromeCoreDownloads
+2026-11-19 15:37:15,文件,删除文件：D:\ChromeCoreDownloads\Go语言+Fyne快速上手教程\未确认 580799.crdownload
+2026-11-19 15:37:15,文件,创建文件：D:\ChromeCoreDownloads\Go语言+Fyne快速上手教程\SampleSSO-main.zip
+2026-11-19 15:37:47,文件,删除文件：D:\ChromeCoreDownloads\Go语言+Fyne快速上手教程\SampleSSO-main.zip
+2026-11-19 15:37:48,文件,内容修改：D:\ChromeCoreDownloads\Go语言+Fyne快速上手教程
+2026-11-19 15:40:44,文件,内容修改：D:\tools\Notepad2\notepad2-v4.21.11\Notepad2.ini
+2026-11-19 15:46:12,文件,内容修改：D:\tools\Notepad2\notepad2-v4.21.11\Notepad2.ini
+2026-11-19 15:47:32,文件,内容修改：E:\laz3.3\fpcsrc\packages\fpmake.exe
+2026-11-19 15:47:47,文件,内容修改：D:\tools\Notepad2\notepad2-v4.21.11\Notepad2.ini
+2026-11-19 15:48:04,文件,内容修改：D:\tools\Notepad2\notepad2-v4.21.11\Notepad2.ini
+2026-11-19 15:50:59,告警,CPU 使用率 93.8%，超过阈值 90% | CPU 占用最高的 3 个程序：explorer.exe（21.6%）、svchost.exe（8.6%）、ctfmon.exe（8.5%） | 
+2026-11-19 16:00:37,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Win32\Release\中少总社数字资源处理工具.exe
+2026-11-19 16:00:59,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Win32\Release\mysettings.ini
+2026-11-19 16:01:01,告警,CPU 使用率 100.0%，超过阈值 90% | CPU 占用最高的 3 个程序：Rar.exe（44.4%）、explorer.exe（16.5%）、ctfmon.exe（8.4%） | 
+2026-11-19 16:01:31,告警,CPU 使用率 92.7%，超过阈值 90% | CPU 占用最高的 3 个程序：ctfmon.exe（8.3%）、svchost.exe（8.3%）、360AP.exe（8.1%） | 
+2026-11-19 16:05:27,文件,内容修改：D:\tools\Notepad2\notepad2-v4.21.11\Notepad2.ini
+2026-11-19 16:06:53,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\__history
+2026-11-19 16:06:53,文件,删除文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.pas
+2026-11-19 16:06:53,文件,移动/重命名文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.$$$ -> D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.pas
+2026-11-19 16:06:53,文件,创建文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.$$$
+2026-11-19 16:06:53,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.$$$
+2026-11-19 16:06:53,文件,删除文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.dfm
+2026-11-19 16:06:53,文件,移动/重命名文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.$$$ -> D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.dfm
+2026-11-19 16:06:53,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source
+2026-11-19 16:06:53,文件,创建文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\__recovery\__recovery.ini
+2026-11-19 16:06:53,文件,删除文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\__recovery\__recovery.ini
+2026-11-19 16:06:53,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Win32\Release\dcus
+2026-11-19 16:07:18,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\__history
+2026-11-19 16:07:18,文件,删除文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.pas
+2026-11-19 16:07:18,文件,移动/重命名文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.$$$ -> D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.pas
+2026-11-19 16:07:18,文件,创建文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.$$$
+2026-11-19 16:07:18,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.$$$
+2026-11-19 16:07:18,文件,删除文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.dfm
+2026-11-19 16:07:18,文件,移动/重命名文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.$$$ -> D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.dfm
+2026-11-19 16:07:18,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source
+2026-11-19 16:07:18,文件,创建文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\__recovery\__recovery.ini
+2026-11-19 16:07:19,文件,删除文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\__recovery\__recovery.ini
+2026-11-19 16:08:52,文件,创建文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Win32\Release\新建文本文档.txt
+2026-11-19 16:08:52,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Win32\Release
+2026-11-19 16:08:56,文件,移动/重命名文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Win32\Release\新建文本文档.txt -> D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Win32\Release\程序修改要求.txt
+2026-11-19 16:08:56,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Win32\Release
+2026-11-19 16:09:07,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Win32\Release\程序修改要求.txt
+2026-11-19 16:09:20,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Win32\Release\程序修改要求.txt
+2026-11-19 16:09:43,文件,创建文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\uToolsPDF.$$$
+2026-11-19 16:09:43,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\uToolsPDF.$$$
+2026-11-19 16:09:43,文件,删除文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\uToolsPDF.pas
+2026-11-19 16:09:43,文件,移动/重命名文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\uToolsPDF.$$$ -> D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\uToolsPDF.pas
+2026-11-19 16:09:43,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source
+2026-11-19 16:09:43,文件,创建文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\__recovery\__recovery.ini
+2026-11-19 16:09:43,文件,删除文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\__recovery\__recovery.ini
+2026-11-19 16:11:03,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\__history
+2026-11-19 16:11:03,文件,删除文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.pas
+2026-11-19 16:11:03,文件,移动/重命名文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.$$$ -> D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.pas
+2026-11-19 16:11:03,文件,创建文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.$$$
+2026-11-19 16:11:03,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.$$$
+2026-11-19 16:11:03,文件,删除文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.dfm
+2026-11-19 16:11:03,文件,移动/重命名文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.$$$ -> D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.dfm
+2026-11-19 16:11:03,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source
+2026-11-19 16:11:03,文件,创建文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\__recovery\__recovery.ini
+2026-11-19 16:11:03,文件,删除文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\__recovery\__recovery.ini
+2026-11-19 16:12:55,文件,创建文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\__recovery\__recovery.ini
+2026-11-19 16:12:55,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\__recovery\__recovery.ini
+2026-11-19 16:12:55,文件,创建文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\__recovery\uDocxTemplate.pas
+2026-11-19 16:12:55,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\__recovery\uDocxTemplate.pas
+2026-11-19 16:13:26,文件,创建文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\uDocxTemplate.$$$
+2026-11-19 16:13:26,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\uDocxTemplate.$$$
+2026-11-19 16:13:26,文件,删除文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\uDocxTemplate.pas
+2026-11-19 16:13:26,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\__history
+2026-11-19 16:13:26,文件,移动/重命名文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\uDocxTemplate.$$$ -> D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\uDocxTemplate.pas
+2026-11-19 16:13:26,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source
+2026-11-19 16:13:26,文件,删除文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\__recovery\uDocxTemplate.pas
+2026-11-19 16:13:26,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\__recovery\__recovery.ini
+2026-11-19 16:13:26,文件,删除文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\__recovery\__recovery.ini
+2026-11-19 16:13:57,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\__history
+2026-11-19 16:13:57,文件,删除文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.pas
+2026-11-19 16:13:57,文件,移动/重命名文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.$$$ -> D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.pas
+2026-11-19 16:13:57,文件,创建文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.$$$
+2026-11-19 16:13:57,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.$$$
+2026-11-19 16:13:57,文件,删除文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.dfm
+2026-11-19 16:13:57,文件,移动/重命名文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.$$$ -> D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.dfm
+2026-11-19 16:13:57,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source
+2026-11-19 16:13:57,文件,创建文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\__recovery\__recovery.ini
+2026-11-19 16:13:57,文件,删除文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.pas
+2026-11-19 16:13:57,文件,移动/重命名文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.$$$ -> D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.pas
+2026-11-19 16:13:57,文件,创建文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.$$$
+2026-11-19 16:13:57,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.$$$
+2026-11-19 16:13:57,文件,删除文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.dfm
+2026-11-19 16:13:57,文件,移动/重命名文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.$$$ -> D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.dfm
+2026-11-19 16:13:57,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source
+2026-11-19 16:13:57,文件,创建文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\__recovery\__recovery.ini
+2026-11-19 16:13:57,文件,删除文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\__recovery\__recovery.ini
+2026-11-19 16:13:58,文件,删除文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.pas
+2026-11-19 16:13:58,文件,移动/重命名文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.$$$ -> D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.pas
+2026-11-19 16:13:58,文件,创建文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.$$$
+2026-11-19 16:13:58,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.$$$
+2026-11-19 16:13:58,文件,删除文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.dfm
+2026-11-19 16:13:58,文件,移动/重命名文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.$$$ -> D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.dfm
+2026-11-19 16:13:58,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source
+2026-11-19 16:13:58,文件,创建文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\__recovery\__recovery.ini
+2026-11-19 16:13:58,文件,删除文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\__recovery\__recovery.ini
+2026-11-19 16:14:15,文件,创建文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\中少总社数字资源处理工具.vrc
+2026-11-19 16:14:15,文件,创建文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\中少总社数字资源处理工具.$manifest
+2026-11-19 16:14:15,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\中少总社数字资源处理工具.$manifest
+2026-11-19 16:14:15,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\中少总社数字资源处理工具.vrc
+2026-11-19 16:14:15,文件,创建文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\RCa24696
+2026-11-19 16:14:15,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\RCa24696
+2026-11-19 16:14:15,文件,创建文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\RDa24696
+2026-11-19 16:14:15,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\RDa24696
+2026-11-19 16:14:15,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\中少总社数字资源处理工具.res
+2026-11-19 16:14:15,文件,删除文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\RCa24696
+2026-11-19 16:14:15,文件,删除文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\RDa24696
+2026-11-19 16:14:15,文件,删除文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\中少总社数字资源处理工具.vrc
+2026-11-19 16:14:15,文件,删除文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\中少总社数字资源处理工具.$manifest
+2026-11-19 16:14:15,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source
+2026-11-19 16:14:15,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Win32\Release\dcus\uPublics.dcu
+2026-11-19 16:14:15,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Win32\Release\dcus\uToolsPDF.dcu
+2026-11-19 16:14:15,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Win32\Release\dcus\GDIPAPI.dcu
+2026-11-19 16:14:15,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Win32\Release\dcus\GDIPOBJ.dcu
+2026-11-19 16:14:15,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Win32\Release\dcus\uToolsImage.dcu
+2026-11-19 16:14:16,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Win32\Release\dcus\uToolsRAR.dcu
+2026-11-19 16:14:16,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Win32\Release\dcus\uParseXMLv3.dcu
+2026-11-19 16:14:16,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Win32\Release\dcus\uMagazineExtractor.dcu
+2026-11-19 16:14:16,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Win32\Release\dcus\MyStrUtils.dcu
+2026-11-19 16:14:16,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Win32\Release\dcus\MyIOUtils.dcu
+2026-11-19 16:14:16,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Win32\Release\dcus\MyConfigTool.dcu
+2026-11-19 16:14:16,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Win32\Release\dcus\MyGraphicUtils.dcu
+2026-11-19 16:14:16,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Win32\Release\dcus\Office4D.Errors.dcu
+2026-11-19 16:14:16,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Win32\Release\dcus\Office4D.Package.dcu
+2026-11-19 16:14:16,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Win32\Release\dcus\Office4D.Types.dcu
+2026-11-19 16:14:16,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Win32\Release\dcus\Office4D.Metadata.dcu
+2026-11-19 16:14:16,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Win32\Release\dcus\Office4D.Word.Model.dcu
+2026-11-19 16:14:16,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Win32\Release\dcus\Office4D.Xml.dcu
+2026-11-19 16:14:16,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Win32\Release\dcus\Office4D.Relationships.dcu
+2026-11-19 16:14:16,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Win32\Release\dcus\Office4D.Word.Reader.dcu
+2026-11-19 16:14:16,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Win32\Release\dcus\Office4D.Word.Writer.dcu
+2026-11-19 16:14:16,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Win32\Release\dcus\Office4D.Word.Document.dcu
+2026-11-19 16:14:17,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Win32\Release\dcus\Office4D.Word.dcu
+2026-11-19 16:14:17,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Win32\Release\dcus\uDocxTemplate.dcu
+2026-11-19 16:14:17,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Win32\Release\dcus\Unit5.dcu
+2026-11-19 16:14:17,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Win32\Release\中少总社数字资源处理工具.exe
+2026-11-19 16:14:28,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Win32\Release\mysettings.ini
+2026-11-19 16:14:29,告警,CPU 使用率 100.0%，超过阈值 90% | CPU 占用最高的 3 个程序：explorer.exe（16.9%）、ctfmon.exe（8.4%）、svchost.exe（8.2%） | 
+2026-11-19 16:16:21,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Win32\Release\程序修改要求.txt
+2026-11-19 16:16:56,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Win32\Release\程序修改要求.txt
+2026-11-19 16:18:56,文件,内容修改：D:\tools\Notepad2\notepad2-v4.21.11\Notepad2.ini
+2026-11-19 16:19:51,文件,内容修改：D:\tools\Notepad2\notepad2-v4.21.11\Notepad2.ini
+2026-11-19 16:20:36,文件,删除文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.pas
+2026-11-19 16:20:36,文件,移动/重命名文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.$$$ -> D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.pas
+2026-11-19 16:20:36,文件,创建文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.$$$
+2026-11-19 16:20:36,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.$$$
+2026-11-19 16:20:36,文件,删除文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.dfm
+2026-11-19 16:20:36,文件,移动/重命名文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.$$$ -> D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.dfm
+2026-11-19 16:20:36,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source
+2026-11-19 16:20:36,文件,创建文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\__recovery\__recovery.ini
+2026-11-19 16:20:36,文件,删除文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\__recovery\__recovery.ini
+2026-11-19 16:20:41,文件,创建文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\中少总社数字资源处理工具.dproj.$$$
+2026-11-19 16:20:41,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\中少总社数字资源处理工具.dproj.$$$
+2026-11-19 16:20:41,文件,删除文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\中少总社数字资源处理工具.dproj.local
+2026-11-19 16:20:41,文件,移动/重命名文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\中少总社数字资源处理工具.dproj.$$$ -> D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\中少总社数字资源处理工具.dproj.local
+2026-11-19 16:20:41,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source
+2026-11-19 16:20:41,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\中少总社数字资源处理工具.identcache
+2026-11-19 16:20:41,文件,创建文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\__recovery\__recovery.ini
+2026-11-19 16:20:41,文件,删除文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\__recovery\__recovery.ini
+2026-11-19 16:22:12,文件,内容修改：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\__history
+2026-11-19 16:22:12,文件,删除文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\UPdf2JPG.pas
+2026-11-19 16:22:12,文件,移动/重命名文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\UPdf2JPG.$$$ -> D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\UPdf2JPG.pas
+2026-11-19 16:22:12,文件,创建文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\UPdf2JPG.$$$
+2026-11-19 16:22:12,文件,内容修改：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\UPdf2JPG.$$$
+2026-11-19 16:22:12,文件,删除文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\UPdf2JPG.dfm
+2026-11-19 16:22:12,文件,移动/重命名文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\UPdf2JPG.$$$ -> D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\UPdf2JPG.dfm
+2026-11-19 16:22:12,文件,内容修改：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source
+2026-11-19 16:22:26,文件,删除文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\UPdf2JPG.pas
+2026-11-19 16:22:26,文件,内容修改：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\__history
+2026-11-19 16:22:26,文件,移动/重命名文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\UPdf2JPG.$$$ -> D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\UPdf2JPG.pas
+2026-11-19 16:22:26,文件,创建文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\UPdf2JPG.$$$
+2026-11-19 16:22:26,文件,内容修改：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\UPdf2JPG.$$$
+2026-11-19 16:22:26,文件,删除文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\UPdf2JPG.dfm
+2026-11-19 16:22:26,文件,移动/重命名文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\UPdf2JPG.$$$ -> D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\UPdf2JPG.dfm
+2026-11-19 16:22:26,文件,内容修改：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source
+2026-11-19 16:22:39,文件,内容修改：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\__history
+2026-11-19 16:22:39,文件,删除文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\UPdf2JPG.pas
+2026-11-19 16:22:39,文件,移动/重命名文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\UPdf2JPG.$$$ -> D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\UPdf2JPG.pas
+2026-11-19 16:22:39,文件,创建文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\UPdf2JPG.$$$
+2026-11-19 16:22:39,文件,内容修改：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\UPdf2JPG.$$$
+2026-11-19 16:22:39,文件,删除文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\UPdf2JPG.dfm
+2026-11-19 16:22:39,文件,移动/重命名文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\UPdf2JPG.$$$ -> D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\UPdf2JPG.dfm
+2026-11-19 16:22:39,文件,内容修改：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source
+2026-11-19 16:22:55,文件,内容修改：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\__history
+2026-11-19 16:22:55,文件,删除文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\UPdf2JPG.pas
+2026-11-19 16:22:55,文件,移动/重命名文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\UPdf2JPG.$$$ -> D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\UPdf2JPG.pas
+2026-11-19 16:22:55,文件,创建文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\UPdf2JPG.$$$
+2026-11-19 16:22:55,文件,内容修改：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\UPdf2JPG.$$$
+2026-11-19 16:22:55,文件,删除文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\UPdf2JPG.dfm
+2026-11-19 16:22:55,文件,移动/重命名文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\UPdf2JPG.$$$ -> D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\UPdf2JPG.dfm
+2026-11-19 16:22:55,文件,内容修改：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source
+2026-11-19 16:22:55,文件,删除文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\UPdf2JPG.pas
+2026-11-19 16:22:55,文件,移动/重命名文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\UPdf2JPG.$$$ -> D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\UPdf2JPG.pas
+2026-11-19 16:22:55,文件,创建文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\UPdf2JPG.$$$
+2026-11-19 16:22:55,文件,内容修改：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\UPdf2JPG.$$$
+2026-11-19 16:22:55,文件,删除文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\UPdf2JPG.dfm
+2026-11-19 16:22:55,文件,移动/重命名文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\UPdf2JPG.$$$ -> D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\UPdf2JPG.dfm
+2026-11-19 16:22:55,文件,内容修改：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source
+2026-11-19 16:22:56,文件,删除文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\UPdf2JPG.pas
+2026-11-19 16:22:56,文件,移动/重命名文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\UPdf2JPG.$$$ -> D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\UPdf2JPG.pas
+2026-11-19 16:22:56,文件,创建文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\UPdf2JPG.$$$
+2026-11-19 16:22:56,文件,内容修改：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\UPdf2JPG.$$$
+2026-11-19 16:22:56,文件,删除文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\UPdf2JPG.dfm
+2026-11-19 16:22:56,文件,移动/重命名文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\UPdf2JPG.$$$ -> D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\UPdf2JPG.dfm
+2026-11-19 16:22:56,文件,内容修改：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source
+2026-11-19 16:24:11,文件,内容修改：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\__history
+2026-11-19 16:24:11,文件,删除文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\UPdf2JPG.pas
+2026-11-19 16:24:11,文件,移动/重命名文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\UPdf2JPG.$$$ -> D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\UPdf2JPG.pas
+2026-11-19 16:24:11,文件,创建文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\UPdf2JPG.$$$
+2026-11-19 16:24:11,文件,内容修改：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\UPdf2JPG.$$$
+2026-11-19 16:24:11,文件,删除文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\UPdf2JPG.dfm
+2026-11-19 16:24:11,文件,移动/重命名文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\UPdf2JPG.$$$ -> D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\UPdf2JPG.dfm
+2026-11-19 16:24:11,文件,内容修改：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source
+2026-11-19 16:24:22,文件,内容修改：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\__history
+2026-11-19 16:24:22,文件,删除文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\UPdf2JPG.pas
+2026-11-19 16:24:22,文件,移动/重命名文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\UPdf2JPG.$$$ -> D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\UPdf2JPG.pas
+2026-11-19 16:24:22,文件,创建文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\UPdf2JPG.$$$
+2026-11-19 16:24:22,文件,内容修改：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\UPdf2JPG.$$$
+2026-11-19 16:24:22,文件,删除文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\UPdf2JPG.dfm
+2026-11-19 16:24:22,文件,移动/重命名文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\UPdf2JPG.$$$ -> D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\UPdf2JPG.dfm
+2026-11-19 16:24:22,文件,内容修改：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source
+2026-11-19 16:24:33,文件,内容修改：D:\lazarus30\lazbuild.exe
+2026-11-19 16:25:03,文件,创建文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\uPublics.pas
+2026-11-19 16:25:03,文件,内容修改：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\uPublics.pas
+2026-11-19 16:25:03,文件,内容修改：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source
+2026-11-19 16:25:31,文件,内容修改：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\Win64\Release\PDF转大图64位程序.exe
+2026-11-19 16:25:31,文件,创建文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\PDF转大图64位程序.vrc
+2026-11-19 16:25:31,文件,创建文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\PDF转大图64位程序.$manifest
+2026-11-19 16:25:31,文件,内容修改：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\PDF转大图64位程序.$manifest
+2026-11-19 16:25:31,文件,内容修改：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\PDF转大图64位程序.vrc
+2026-11-19 16:25:31,文件,创建文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\RCa11856
+2026-11-19 16:25:31,文件,内容修改：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\RCa11856
+2026-11-19 16:25:31,文件,创建文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\RDa11856
+2026-11-19 16:25:31,文件,内容修改：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\RDa11856
+2026-11-19 16:25:32,文件,内容修改：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\PDF转大图64位程序.res
+2026-11-19 16:25:32,文件,删除文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\RCa11856
+2026-11-19 16:25:32,文件,删除文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\RDa11856
+2026-11-19 16:25:32,文件,删除文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\PDF转大图64位程序.vrc
+2026-11-19 16:25:32,文件,删除文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\PDF转大图64位程序.$manifest
+2026-11-19 16:25:32,文件,内容修改：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source
+2026-11-19 16:25:32,文件,内容修改：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\Win64\Release
+2026-11-19 16:25:32,文件,内容修改：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\Win64\Release\PdfiumLib.dcu
+2026-11-19 16:25:32,文件,内容修改：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\Win64\Release\PdfiumCore.dcu
+2026-11-19 16:25:32,文件,内容修改：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\Win64\Release\PdfiumCtrl.dcu
+2026-11-19 16:25:32,文件,内容修改：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\Win64\Release\uPublics.dcu
+2026-11-19 16:25:32,文件,内容修改：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\Win64\Release\UPdf2JPG.dcu
+2026-11-19 16:25:32,文件,内容修改：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\Win64\Release\PDF转大图64位程序.exe
+2026-11-19 16:25:35,文件,删除文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\UPdf2JPG.pas
+2026-11-19 16:25:35,文件,移动/重命名文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\UPdf2JPG.$$$ -> D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\UPdf2JPG.pas
+2026-11-19 16:25:35,文件,创建文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\UPdf2JPG.$$$
+2026-11-19 16:25:35,文件,内容修改：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\UPdf2JPG.$$$
+2026-11-19 16:25:35,文件,删除文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\UPdf2JPG.dfm
+2026-11-19 16:25:35,文件,移动/重命名文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\UPdf2JPG.$$$ -> D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\UPdf2JPG.dfm
+2026-11-19 16:25:35,文件,内容修改：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source
+2026-11-19 16:26:13,文件,创建文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Win32\Release\bin\PDF转大图64位程序.exe
+2026-11-19 16:26:13,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Win32\Release\bin\PDF转大图64位程序.exe
+2026-11-19 16:26:13,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Win32\Release\bin
+2026-11-19 16:26:19,文件,删除文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Win32\Release\bin\PDF2BigJPG.exe
+2026-11-19 16:26:20,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Win32\Release\bin
+2026-11-19 16:26:21,文件,移动/重命名文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Win32\Release\bin\PDF转大图64位程序.exe -> D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Win32\Release\bin\PDF2BigJPG.exe
+2026-11-19 16:26:21,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Win32\Release\bin
+2026-11-19 16:26:28,文件,创建文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\PDF转大图64位程序.dproj.$$$
+2026-11-19 16:26:28,文件,内容修改：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\PDF转大图64位程序.dproj.$$$
+2026-11-19 16:26:28,文件,删除文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\PDF转大图64位程序.dproj.local
+2026-11-19 16:26:28,文件,移动/重命名文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\PDF转大图64位程序.dproj.$$$ -> D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\PDF转大图64位程序.dproj.local
+2026-11-19 16:26:28,文件,内容修改：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source
+2026-11-19 16:26:28,文件,内容修改：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\PDF转大图64位程序.identcache
+2026-11-19 16:26:52,文件,创建文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\中少总社数字资源处理工具.dproj.$$$
+2026-11-19 16:26:52,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\中少总社数字资源处理工具.dproj.$$$
+2026-11-19 16:26:52,文件,删除文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\中少总社数字资源处理工具.dproj.local
+2026-11-19 16:26:52,文件,移动/重命名文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\中少总社数字资源处理工具.dproj.$$$ -> D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\中少总社数字资源处理工具.dproj.local
+2026-11-19 16:26:52,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source
+2026-11-19 16:26:52,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\中少总社数字资源处理工具.identcache
+2026-11-19 16:26:52,文件,创建文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\__recovery\__recovery.ini
+2026-11-19 16:26:52,文件,删除文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\__recovery\__recovery.ini
+2026-11-19 16:27:15,文件,内容修改：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\__history
+2026-11-19 16:27:15,文件,删除文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\UPdf2JPG.pas
+2026-11-19 16:27:15,文件,移动/重命名文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\UPdf2JPG.$$$ -> D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\UPdf2JPG.pas
+2026-11-19 16:27:15,文件,创建文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\UPdf2JPG.$$$
+2026-11-19 16:27:15,文件,内容修改：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\UPdf2JPG.$$$
+2026-11-19 16:27:15,文件,删除文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\UPdf2JPG.dfm
+2026-11-19 16:27:15,文件,移动/重命名文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\UPdf2JPG.$$$ -> D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\UPdf2JPG.dfm
+2026-11-19 16:27:15,文件,内容修改：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source
+2026-11-19 16:27:16,文件,删除文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\UPdf2JPG.pas
+2026-11-19 16:27:16,文件,移动/重命名文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\UPdf2JPG.$$$ -> D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\UPdf2JPG.pas
+2026-11-19 16:27:16,文件,创建文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\UPdf2JPG.$$$
+2026-11-19 16:27:16,文件,内容修改：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\UPdf2JPG.$$$
+2026-11-19 16:27:16,文件,删除文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\UPdf2JPG.dfm
+2026-11-19 16:27:16,文件,移动/重命名文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\UPdf2JPG.$$$ -> D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\UPdf2JPG.dfm
+2026-11-19 16:27:16,文件,内容修改：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source
+2026-11-19 16:27:22,文件,内容修改：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\__history
+2026-11-19 16:27:22,文件,删除文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\UPdf2JPG.pas
+2026-11-19 16:27:22,文件,移动/重命名文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\UPdf2JPG.$$$ -> D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\UPdf2JPG.pas
+2026-11-19 16:27:22,文件,创建文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\UPdf2JPG.$$$
+2026-11-19 16:27:22,文件,内容修改：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\UPdf2JPG.$$$
+2026-11-19 16:27:22,文件,删除文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\UPdf2JPG.dfm
+2026-11-19 16:27:22,文件,移动/重命名文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\UPdf2JPG.$$$ -> D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\UPdf2JPG.dfm
+2026-11-19 16:27:22,文件,内容修改：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source
+2026-11-19 16:27:23,文件,创建文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\PDF转大图64位程序.vrc
+2026-11-19 16:27:23,文件,创建文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\PDF转大图64位程序.$manifest
+2026-11-19 16:27:23,文件,内容修改：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\PDF转大图64位程序.$manifest
+2026-11-19 16:27:23,文件,内容修改：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\PDF转大图64位程序.vrc
+2026-11-19 16:27:23,文件,创建文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\RCa11272
+2026-11-19 16:27:23,文件,内容修改：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\RCa11272
+2026-11-19 16:27:23,文件,创建文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\RDa11272
+2026-11-19 16:27:23,文件,内容修改：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\RDa11272
+2026-11-19 16:27:23,文件,内容修改：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\PDF转大图64位程序.res
+2026-11-19 16:27:24,文件,删除文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\RCa11272
+2026-11-19 16:27:24,文件,删除文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\RDa11272
+2026-11-19 16:27:24,文件,删除文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\PDF转大图64位程序.vrc
+2026-11-19 16:27:24,文件,删除文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\PDF转大图64位程序.$manifest
+2026-11-19 16:27:24,文件,内容修改：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source
+2026-11-19 16:27:24,文件,内容修改：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\Win64\Release\PdfiumLib.dcu
+2026-11-19 16:27:24,文件,内容修改：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\Win64\Release\PdfiumCore.dcu
+2026-11-19 16:27:24,文件,内容修改：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\Win64\Release\PdfiumCtrl.dcu
+2026-11-19 16:27:24,文件,内容修改：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\Win64\Release\uPublics.dcu
+2026-11-19 16:27:24,文件,内容修改：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\Win64\Release\UPdf2JPG.dcu
+2026-11-19 16:27:24,文件,内容修改：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\Win64\Release\PDF转大图64位程序.exe
+2026-11-19 16:27:25,文件,删除文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\UPdf2JPG.pas
+2026-11-19 16:27:25,文件,移动/重命名文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\UPdf2JPG.$$$ -> D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\UPdf2JPG.pas
+2026-11-19 16:27:25,文件,创建文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\UPdf2JPG.$$$
+2026-11-19 16:27:25,文件,内容修改：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\UPdf2JPG.$$$
+2026-11-19 16:27:25,文件,删除文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\UPdf2JPG.dfm
+2026-11-19 16:27:25,文件,移动/重命名文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\UPdf2JPG.$$$ -> D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\UPdf2JPG.dfm
+2026-11-19 16:27:25,文件,内容修改：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source
+2026-11-19 16:27:26,文件,删除文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\UPdf2JPG.pas
+2026-11-19 16:27:26,文件,移动/重命名文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\UPdf2JPG.$$$ -> D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\UPdf2JPG.pas
+2026-11-19 16:27:26,文件,创建文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\UPdf2JPG.$$$
+2026-11-19 16:27:26,文件,内容修改：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\UPdf2JPG.$$$
+2026-11-19 16:27:26,文件,删除文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\UPdf2JPG.dfm
+2026-11-19 16:27:26,文件,移动/重命名文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\UPdf2JPG.$$$ -> D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\UPdf2JPG.dfm
+2026-11-19 16:27:26,文件,内容修改：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source
+2026-11-19 16:27:32,文件,创建文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Win32\Release\bin\PDF转大图64位程序.exe
+2026-11-19 16:27:32,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Win32\Release\bin\PDF转大图64位程序.exe
+2026-11-19 16:27:32,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Win32\Release\bin
+2026-11-19 16:27:36,文件,删除文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Win32\Release\bin\PDF2BigJPG.exe
+2026-11-19 16:27:37,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Win32\Release\bin
+2026-11-19 16:27:38,文件,移动/重命名文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Win32\Release\bin\PDF转大图64位程序.exe -> D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Win32\Release\bin\PDF2BigJPG.exe
+2026-11-19 16:27:38,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Win32\Release\bin
+2026-11-19 16:27:43,文件,创建文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\PDF转大图64位程序.dproj.$$$
+2026-11-19 16:27:43,文件,内容修改：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\PDF转大图64位程序.dproj.$$$
+2026-11-19 16:27:43,文件,删除文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\PDF转大图64位程序.dproj.local
+2026-11-19 16:27:43,文件,移动/重命名文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\PDF转大图64位程序.dproj.$$$ -> D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\PDF转大图64位程序.dproj.local
+2026-11-19 16:27:43,文件,内容修改：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source
+2026-11-19 16:27:43,文件,内容修改：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\PDF转大图64位程序.identcache
+2026-11-19 16:27:48,文件,内容修改：D:\lazarus30\mingw\i386-win32\bin\gdb.exe
+2026-11-19 16:27:49,文件,内容修改：D:\lazarus30\mingw\i386-win32\bin\LazGDeBugControl.exe
+2026-11-19 16:27:57,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Win32\Release\中少总社数字资源处理工具.exe
+2026-11-19 16:28:23,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Win32\Release\mysettings.ini
+2026-11-19 16:28:38,文件,创建文件夹：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Win32\Release\bin\新建文件夹
+2026-11-19 16:28:38,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Win32\Release\bin
+2026-11-19 16:28:48,文件,移动/重命名文件夹：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Win32\Release\bin\新建文件夹 -> D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Win32\Release\bin\x86
+2026-11-19 16:28:48,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Win32\Release\bin
+2026-11-19 16:29:02,文件,创建文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\中少总社数字资源处理工具.dproj.$$$
+2026-11-19 16:29:02,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\中少总社数字资源处理工具.dproj.$$$
+2026-11-19 16:29:02,文件,删除文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\中少总社数字资源处理工具.dproj.local
+2026-11-19 16:29:02,文件,移动/重命名文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\中少总社数字资源处理工具.dproj.$$$ -> D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\中少总社数字资源处理工具.dproj.local
+2026-11-19 16:29:02,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source
+2026-11-19 16:29:02,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\中少总社数字资源处理工具.identcache
+2026-11-19 16:29:02,文件,创建文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\__recovery\__recovery.ini
+2026-11-19 16:29:02,文件,删除文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\__recovery\__recovery.ini
+2026-11-19 16:29:32,文件,创建文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Win32\Release\bin\x86\pdfium.dll
+2026-11-19 16:29:33,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Win32\Release\bin\x86\pdfium.dll
+2026-11-19 16:29:33,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Win32\Release\bin\x86
+2026-11-19 16:29:40,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Win32\Release\mysettings.ini
+2026-11-19 16:30:12,文件,创建文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Win32\Release\bin\x86\pdfium.dll
+2026-11-19 16:30:12,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Win32\Release\bin\x86\pdfium.dll
+2026-11-19 16:30:20,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Win32\Release\mysettings.ini
+2026-11-19 16:31:05,文件,移动/重命名文件夹：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Win32\Release\bin\x86 -> D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Win32\Release\bin\@x86
+2026-11-19 16:31:05,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Win32\Release\bin
+2026-11-19 16:31:11,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Win32\Release\mysettings.ini
+2026-11-19 16:31:31,文件,内容修改：D:\lazarus30\tools\lazres.exe
+2026-11-19 16:31:31,文件,内容修改：D:\lazarus30\tools\lrstolfm.exe
+2026-11-19 16:31:38,文件,内容修改：D:\lazarus30\tools\svn2revisioninc.exe
+2026-11-19 16:31:38,文件,内容修改：D:\lazarus30\tools\updatepofiles.exe
+2026-11-19 16:32:06,文件,内容修改：D:\yang2020\杨良山\通用工具\新的多线程下载演示\__history
+2026-11-19 16:32:06,文件,创建文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\PdfiumCore.$$$
+2026-11-19 16:32:06,文件,内容修改：D:\yang2020\杨良山\通用工具\新的多线程下载演示\PdfiumCore.$$$
+2026-11-19 16:32:06,文件,删除文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\PdfiumCore.pas
+2026-11-19 16:32:06,文件,移动/重命名文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\PdfiumCore.$$$ -> D:\yang2020\杨良山\通用工具\新的多线程下载演示\PdfiumCore.pas
+2026-11-19 16:32:06,文件,内容修改：D:\yang2020\杨良山\通用工具\新的多线程下载演示
+2026-11-19 16:32:06,文件,创建文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\__recovery\__recovery.ini
+2026-11-19 16:32:06,文件,删除文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\__recovery\__recovery.ini
+2026-11-19 16:32:07,文件,创建文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\PDF转大图64位程序.vrc
+2026-11-19 16:32:07,文件,创建文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\PDF转大图64位程序.$manifest
+2026-11-19 16:32:07,文件,内容修改：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\PDF转大图64位程序.$manifest
+2026-11-19 16:32:07,文件,内容修改：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\PDF转大图64位程序.vrc
+2026-11-19 16:32:07,文件,创建文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\RCa44040
+2026-11-19 16:32:07,文件,内容修改：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\RCa44040
+2026-11-19 16:32:07,文件,创建文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\RDa44040
+2026-11-19 16:32:07,文件,内容修改：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\RDa44040
+2026-11-19 16:32:07,文件,内容修改：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\PDF转大图64位程序.res
+2026-11-19 16:32:08,文件,删除文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\RCa44040
+2026-11-19 16:32:08,文件,删除文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\RDa44040
+2026-11-19 16:32:08,文件,删除文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\PDF转大图64位程序.vrc
+2026-11-19 16:32:08,文件,删除文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\PDF转大图64位程序.$manifest
+2026-11-19 16:32:08,文件,内容修改：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source
+2026-11-19 16:32:08,文件,内容修改：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\Win64\Release\PdfiumLib.dcu
+2026-11-19 16:32:08,文件,内容修改：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\Win64\Release\PdfiumCore.dcu
+2026-11-19 16:32:08,文件,内容修改：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\Win64\Release\PdfiumCtrl.dcu
+2026-11-19 16:32:08,文件,内容修改：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\Win64\Release\uPublics.dcu
+2026-11-19 16:32:08,文件,内容修改：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\Win64\Release\UPdf2JPG.dcu
+2026-11-19 16:32:08,文件,内容修改：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\Win64\Release\PDF转大图64位程序.exe
+2026-11-19 16:32:09,文件,创建文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\PdfiumCore.$$$
+2026-11-19 16:32:09,文件,内容修改：D:\yang2020\杨良山\通用工具\新的多线程下载演示\PdfiumCore.$$$
+2026-11-19 16:32:09,文件,删除文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\PdfiumCore.pas
+2026-11-19 16:32:09,文件,移动/重命名文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\PdfiumCore.$$$ -> D:\yang2020\杨良山\通用工具\新的多线程下载演示\PdfiumCore.pas
+2026-11-19 16:32:09,文件,内容修改：D:\yang2020\杨良山\通用工具\新的多线程下载演示
+2026-11-19 16:32:09,文件,创建文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\__recovery\__recovery.ini
+2026-11-19 16:32:09,文件,删除文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\__recovery\__recovery.ini
+2026-11-19 16:32:10,文件,创建文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\PdfiumCore.$$$
+2026-11-19 16:32:10,文件,内容修改：D:\yang2020\杨良山\通用工具\新的多线程下载演示\PdfiumCore.$$$
+2026-11-19 16:32:10,文件,删除文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\PdfiumCore.pas
+2026-11-19 16:32:10,文件,移动/重命名文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\PdfiumCore.$$$ -> D:\yang2020\杨良山\通用工具\新的多线程下载演示\PdfiumCore.pas
+2026-11-19 16:32:10,文件,内容修改：D:\yang2020\杨良山\通用工具\新的多线程下载演示
+2026-11-19 16:32:10,文件,创建文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\__recovery\__recovery.ini
+2026-11-19 16:32:10,文件,删除文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\__recovery\__recovery.ini
+2026-11-19 16:32:20,文件,创建文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Win32\Release\bin\PDF转大图64位程序.exe
+2026-11-19 16:32:20,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Win32\Release\bin\PDF转大图64位程序.exe
+2026-11-19 16:32:20,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Win32\Release\bin
+2026-11-19 16:32:24,文件,删除文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Win32\Release\bin\PDF2BigJPG.exe
+2026-11-19 16:32:25,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Win32\Release\bin
+2026-11-19 16:32:26,文件,移动/重命名文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Win32\Release\bin\PDF转大图64位程序.exe -> D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Win32\Release\bin\PDF2BigJPG.exe
+2026-11-19 16:32:26,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Win32\Release\bin
+2026-11-19 16:32:37,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Win32\Release\mysettings.ini
+2026-11-19 16:32:58,文件,移动/重命名文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Win32\Release\bin\pdfium.dll -> D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Win32\Release\bin\@pdfium.dll
+2026-11-19 16:32:58,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Win32\Release\bin
+2026-11-19 16:32:59,文件,创建文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Win32\Release\bin\pdfium.dll
+2026-11-19 16:32:59,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Win32\Release\bin\pdfium.dll
+2026-11-19 16:32:59,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Win32\Release\bin
+2026-11-19 16:33:14,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Win32\Release\mysettings.ini
+2026-11-19 16:33:57,文件,创建文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Win32\Release\bin\pdfium.dll
+2026-11-19 16:33:57,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Win32\Release\bin\pdfium.dll
+2026-11-19 16:34:02,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Win32\Release\mysettings.ini
+2026-11-19 16:34:41,文件,创建文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Win32\Release\bin\pdfium.dll
+2026-11-19 16:34:41,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Win32\Release\bin\pdfium.dll
+2026-11-19 16:34:47,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Win32\Release\mysettings.ini
+2026-11-19 16:35:32,文件,创建文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\PDF转大图64位程序.$$$
+2026-11-19 16:35:32,文件,内容修改：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\PDF转大图64位程序.$$$
+2026-11-19 16:35:32,文件,删除文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\PDF转大图64位程序.dpr
+2026-11-19 16:35:32,文件,移动/重命名文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\PDF转大图64位程序.$$$ -> D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\PDF转大图64位程序.dpr
+2026-11-19 16:35:32,文件,内容修改：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\PDF转大图64位程序.dproj
+2026-11-19 16:35:32,文件,内容修改：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\PDF转大图64位程序.skincfg
+2026-11-19 16:35:32,文件,创建文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\PDF转大图64位程序.dproj.$$$
+2026-11-19 16:35:32,文件,内容修改：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\PDF转大图64位程序.dproj.$$$
+2026-11-19 16:35:32,文件,删除文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\PDF转大图64位程序.dproj.local
+2026-11-19 16:35:32,文件,移动/重命名文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\PDF转大图64位程序.dproj.$$$ -> D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\PDF转大图64位程序.dproj.local
+2026-11-19 16:35:32,文件,内容修改：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source
+2026-11-19 16:35:33,文件,创建文件夹：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\Win32
+2026-11-19 16:35:33,文件,创建文件夹：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\Win32\Release
+2026-11-19 16:35:33,文件,创建文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\PDF转大图64位程序.vrc
+2026-11-19 16:35:33,文件,创建文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\PDF转大图64位程序.$manifest
+2026-11-19 16:35:33,文件,内容修改：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\PDF转大图64位程序.$manifest
+2026-11-19 16:35:33,文件,内容修改：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\PDF转大图64位程序.vrc
+2026-11-19 16:35:33,文件,创建文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\RCa13760
+2026-11-19 16:35:33,文件,内容修改：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\RCa13760
+2026-11-19 16:35:33,文件,创建文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\RDa13760
+2026-11-19 16:35:33,文件,内容修改：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\RDa13760
+2026-11-19 16:35:33,文件,内容修改：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\PDF转大图64位程序.res
+2026-11-19 16:35:33,文件,删除文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\RCa13760
+2026-11-19 16:35:33,文件,删除文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\RDa13760
+2026-11-19 16:35:33,文件,内容修改：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source
+2026-11-19 16:35:33,文件,删除文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\PDF转大图64位程序.vrc
+2026-11-19 16:35:33,文件,删除文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\PDF转大图64位程序.$manifest
+2026-11-19 16:35:34,文件,创建文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\Win32\Release\GDIPAPI.dcu
+2026-11-19 16:35:34,文件,内容修改：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\Win32\Release\GDIPAPI.dcu
+2026-11-19 16:35:34,文件,创建文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\Win32\Release\GDIPOBJ.dcu
+2026-11-19 16:35:34,文件,内容修改：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\Win32\Release\GDIPOBJ.dcu
+2026-11-19 16:35:34,文件,创建文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\Win32\Release\GdipTypes.dcu
+2026-11-19 16:35:34,文件,内容修改：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\Win32\Release\GdipTypes.dcu
+2026-11-19 16:35:34,文件,创建文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\Win32\Release\GdipExport.dcu
+2026-11-19 16:35:34,文件,内容修改：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\Win32\Release\GdipExport.dcu
+2026-11-19 16:35:34,文件,创建文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\Win32\Release\GdipUtil.dcu
+2026-11-19 16:35:34,文件,内容修改：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\Win32\Release\GdipUtil.dcu
+2026-11-19 16:35:34,文件,创建文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\Win32\Release\PdfiumLib.dcu
+2026-11-19 16:35:34,文件,内容修改：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\Win32\Release\PdfiumLib.dcu
+2026-11-19 16:35:34,文件,创建文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\Win32\Release\PdfiumCore.dcu
+2026-11-19 16:35:34,文件,内容修改：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\Win32\Release\PdfiumCore.dcu
+2026-11-19 16:35:34,文件,创建文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\Win32\Release\PdfiumCtrl.dcu
+2026-11-19 16:35:34,文件,内容修改：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\Win32\Release\PdfiumCtrl.dcu
+2026-11-19 16:35:34,文件,创建文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\Win32\Release\uPublics.dcu
+2026-11-19 16:35:34,文件,内容修改：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\Win32\Release\uPublics.dcu
+2026-11-19 16:35:57,文件,删除文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\UPdf2JPG.pas
+2026-11-19 16:35:57,文件,内容修改：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\__history
+2026-11-19 16:35:57,文件,移动/重命名文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\UPdf2JPG.$$$ -> D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\UPdf2JPG.pas
+2026-11-19 16:35:57,文件,创建文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\UPdf2JPG.$$$
+2026-11-19 16:35:57,文件,内容修改：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\UPdf2JPG.$$$
+2026-11-19 16:35:57,文件,删除文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\UPdf2JPG.dfm
+2026-11-19 16:35:57,文件,移动/重命名文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\UPdf2JPG.$$$ -> D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\UPdf2JPG.dfm
+2026-11-19 16:35:57,文件,内容修改：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source
+2026-11-19 16:36:01,文件,内容修改：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\Win32\Release
+2026-11-19 16:36:19,文件,内容修改：D:\lazaruslite32\components\3rd\FastReport\recompile.exe
+2026-11-19 16:36:27,文件,内容修改：D:\lazaruslite32\components\3rd\FastReport\Res\frcc.exe
+2026-11-19 16:36:27,文件,内容修改：D:\lazaruslite32\components\3rd\FastReport\Res\langutil.exe
+2026-11-19 16:36:31,文件,内容修改：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\__history
+2026-11-19 16:36:31,文件,删除文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\UPdf2JPG.pas
+2026-11-19 16:36:31,文件,移动/重命名文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\UPdf2JPG.$$$ -> D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\UPdf2JPG.pas
+2026-11-19 16:36:31,文件,创建文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\UPdf2JPG.$$$
+2026-11-19 16:36:31,文件,内容修改：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\UPdf2JPG.$$$
+2026-11-19 16:36:31,文件,删除文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\UPdf2JPG.dfm
+2026-11-19 16:36:31,文件,移动/重命名文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\UPdf2JPG.$$$ -> D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\UPdf2JPG.dfm
+2026-11-19 16:36:31,文件,内容修改：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source
+2026-11-19 16:36:32,文件,创建文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\PDF转大图64位程序.vrc
+2026-11-19 16:36:32,文件,创建文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\PDF转大图64位程序.$manifest
+2026-11-19 16:36:32,文件,内容修改：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\PDF转大图64位程序.$manifest
+2026-11-19 16:36:32,文件,内容修改：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\PDF转大图64位程序.vrc
+2026-11-19 16:36:32,文件,创建文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\RCa45708
+2026-11-19 16:36:32,文件,内容修改：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\RCa45708
+2026-11-19 16:36:32,文件,创建文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\RDa45708
+2026-11-19 16:36:32,文件,内容修改：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\RDa45708
+2026-11-19 16:36:32,文件,内容修改：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\PDF转大图64位程序.res
+2026-11-19 16:36:32,文件,删除文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\RCa45708
+2026-11-19 16:36:32,文件,删除文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\RDa45708
+2026-11-19 16:36:32,文件,删除文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\PDF转大图64位程序.vrc
+2026-11-19 16:36:32,文件,删除文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\PDF转大图64位程序.$manifest
+2026-11-19 16:36:32,文件,内容修改：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source
+2026-11-19 16:36:33,文件,内容修改：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\Win32\Release\PdfiumLib.dcu
+2026-11-19 16:36:33,文件,内容修改：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\Win32\Release\PdfiumCore.dcu
+2026-11-19 16:36:33,文件,内容修改：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\Win32\Release\PdfiumCtrl.dcu
+2026-11-19 16:36:33,文件,内容修改：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\Win32\Release\uPublics.dcu
+2026-11-19 16:36:33,文件,创建文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\Win32\Release\UPdf2JPG.dcu
+2026-11-19 16:36:33,文件,内容修改：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\Win32\Release\UPdf2JPG.dcu
+2026-11-19 16:36:33,文件,创建文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\Win32\Release\PDF转大图64位程序.exe
+2026-11-19 16:36:33,文件,内容修改：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\Win32\Release\PDF转大图64位程序.exe
+2026-11-19 16:36:37,文件,创建文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\PDF转大图64位程序.vrc
+2026-11-19 16:36:37,文件,创建文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\PDF转大图64位程序.$manifest
+2026-11-19 16:36:37,文件,内容修改：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\PDF转大图64位程序.$manifest
+2026-11-19 16:36:37,文件,内容修改：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\PDF转大图64位程序.vrc
+2026-11-19 16:36:37,文件,创建文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\RCa11424
+2026-11-19 16:36:37,文件,内容修改：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\RCa11424
+2026-11-19 16:36:37,文件,创建文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\RDa11424
+2026-11-19 16:36:37,文件,内容修改：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\RDa11424
+2026-11-19 16:36:37,文件,内容修改：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\PDF转大图64位程序.res
+2026-11-19 16:36:37,文件,删除文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\RCa11424
+2026-11-19 16:36:37,文件,删除文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\RDa11424
+2026-11-19 16:36:37,文件,删除文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\PDF转大图64位程序.vrc
+2026-11-19 16:36:37,文件,删除文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\PDF转大图64位程序.$manifest
+2026-11-19 16:36:37,文件,内容修改：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source
+2026-11-19 16:36:37,文件,内容修改：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\Win32\Release
+2026-11-19 16:36:37,文件,内容修改：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\Win32\Release\PdfiumLib.dcu
+2026-11-19 16:36:37,文件,内容修改：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\Win32\Release\PdfiumCore.dcu
+2026-11-19 16:36:37,文件,内容修改：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\Win32\Release\PdfiumCtrl.dcu
+2026-11-19 16:36:37,文件,内容修改：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\Win32\Release\uPublics.dcu
+2026-11-19 16:36:38,文件,内容修改：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\Win32\Release\UPdf2JPG.dcu
+2026-11-19 16:36:38,文件,内容修改：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\Win32\Release\PDF转大图64位程序.exe
+2026-11-19 16:36:38,文件,删除文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\UPdf2JPG.pas
+2026-11-19 16:36:38,文件,移动/重命名文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\UPdf2JPG.$$$ -> D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\UPdf2JPG.pas
+2026-11-19 16:36:38,文件,创建文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\UPdf2JPG.$$$
+2026-11-19 16:36:38,文件,内容修改：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\UPdf2JPG.$$$
+2026-11-19 16:36:38,文件,删除文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\UPdf2JPG.dfm
+2026-11-19 16:36:38,文件,移动/重命名文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\UPdf2JPG.$$$ -> D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\UPdf2JPG.dfm
+2026-11-19 16:36:38,文件,内容修改：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source
+2026-11-19 16:36:39,文件,内容修改：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\Win32
+2026-11-19 16:36:42,文件,创建文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Win32\Release\bin\PDF转大图64位程序.exe
+2026-11-19 16:36:42,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Win32\Release\bin\PDF转大图64位程序.exe
+2026-11-19 16:36:42,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Win32\Release\bin
+2026-11-19 16:37:00,文件,删除文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Win32\Release\bin\PDF2BigJPG.exe
+2026-11-19 16:37:00,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Win32\Release\bin
+2026-11-19 16:37:03,文件,移动/重命名文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Win32\Release\bin\PDF转大图64位程序.exe -> D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Win32\Release\bin\PDF2BigJPG.exe
+2026-11-19 16:37:03,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Win32\Release\bin
+2026-11-19 16:37:09,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Win32\Release\mysettings.ini
+2026-11-19 16:37:30,告警,CPU 使用率 100.0%，超过阈值 90% | CPU 占用最高的 3 个程序：Rar.exe（58.4%）、ctfmon.exe（8.8%）、svchost.exe（5.7%） | 
+2026-11-19 16:38:02,文件,内容修改：D:\lazaruslite32\components\3rd\HCL\lsetup.exe
+2026-11-19 16:38:25,文件,创建文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\PdfiumCore.$$$
+2026-11-19 16:38:25,文件,内容修改：D:\yang2020\杨良山\通用工具\新的多线程下载演示\PdfiumCore.$$$
+2026-11-19 16:38:25,文件,删除文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\PdfiumCore.pas
+2026-11-19 16:38:25,文件,移动/重命名文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\PdfiumCore.$$$ -> D:\yang2020\杨良山\通用工具\新的多线程下载演示\PdfiumCore.pas
+2026-11-19 16:38:25,文件,内容修改：D:\yang2020\杨良山\通用工具\新的多线程下载演示
+2026-11-19 16:38:25,文件,创建文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\__recovery\__recovery.ini
+2026-11-19 16:38:25,文件,删除文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\__recovery\__recovery.ini
+2026-11-19 16:39:34,文件,创建文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\__recovery\__recovery.ini
+2026-11-19 16:39:34,文件,删除文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\__recovery\__recovery.ini
+2026-11-19 16:39:38,文件,移动/重命名文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\PdfiumCore.pas -> D:\yang2020\杨良山\通用工具\新的多线程下载演示\PdfiumCore@.pas
+2026-11-19 16:39:38,文件,内容修改：D:\yang2020\杨良山\通用工具\新的多线程下载演示
+2026-11-19 16:39:48,文件,移动/重命名文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\PdfiumCtrl.pas -> D:\yang2020\杨良山\通用工具\新的多线程下载演示\PdfiumCtrl@.pas
+2026-11-19 16:39:48,文件,内容修改：D:\yang2020\杨良山\通用工具\新的多线程下载演示
+2026-11-19 16:39:58,文件,移动/重命名文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\PdfiumLib.pas -> D:\yang2020\杨良山\通用工具\新的多线程下载演示\PdfiumLib@.pas
+2026-11-19 16:39:58,文件,内容修改：D:\yang2020\杨良山\通用工具\新的多线程下载演示
+2026-11-19 16:40:03,文件,移动/重命名文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\PdfiumLibV137.pas -> D:\yang2020\杨良山\通用工具\新的多线程下载演示\PdfiumLibV.pas
+2026-11-19 16:40:03,文件,内容修改：D:\yang2020\杨良山\通用工具\新的多线程下载演示
+2026-11-19 16:40:05,文件,移动/重命名文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\PdfiumCtrlV137.pas -> D:\yang2020\杨良山\通用工具\新的多线程下载演示\PdfiumCtrlV.pas
+2026-11-19 16:40:05,文件,内容修改：D:\yang2020\杨良山\通用工具\新的多线程下载演示
+2026-11-19 16:40:09,文件,移动/重命名文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\PdfiumCoreV137.pas -> D:\yang2020\杨良山\通用工具\新的多线程下载演示\PdfiumCore.pas
+2026-11-19 16:40:09,文件,内容修改：D:\yang2020\杨良山\通用工具\新的多线程下载演示
+2026-11-19 16:40:20,文件,删除文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Win32\Release\bin\pdfium.dll
+2026-11-19 16:40:21,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Win32\Release\bin
+2026-11-19 16:40:23,文件,移动/重命名文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Win32\Release\bin\@pdfium.dll -> D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Win32\Release\bin\pdfium.dll
+2026-11-19 16:40:23,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Win32\Release\bin
+2026-11-19 16:40:31,文件,创建文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\PDF转大图64位程序.$$$
+2026-11-19 16:40:31,文件,内容修改：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\PDF转大图64位程序.$$$
+2026-11-19 16:40:31,文件,删除文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\PDF转大图64位程序.dpr
+2026-11-19 16:40:31,文件,移动/重命名文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\PDF转大图64位程序.$$$ -> D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\PDF转大图64位程序.dpr
+2026-11-19 16:40:31,文件,内容修改：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\PDF转大图64位程序.dproj
+2026-11-19 16:40:31,文件,内容修改：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\PDF转大图64位程序.skincfg
+2026-11-19 16:40:31,文件,创建文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\PDF转大图64位程序.dproj.$$$
+2026-11-19 16:40:31,文件,内容修改：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\PDF转大图64位程序.dproj.$$$
+2026-11-19 16:40:31,文件,删除文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\PDF转大图64位程序.dproj.local
+2026-11-19 16:40:31,文件,移动/重命名文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\PDF转大图64位程序.dproj.$$$ -> D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\PDF转大图64位程序.dproj.local
+2026-11-19 16:40:31,文件,内容修改：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source
+2026-11-19 16:40:31,文件,创建文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\PDF转大图64位程序.vrc
+2026-11-19 16:40:31,文件,内容修改：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source
+2026-11-19 16:40:32,文件,创建文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\PDF转大图64位程序.$manifest
+2026-11-19 16:40:32,文件,内容修改：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\PDF转大图64位程序.$manifest
+2026-11-19 16:40:32,文件,内容修改：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\PDF转大图64位程序.vrc
+2026-11-19 16:40:45,文件,移动/重命名文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\PdfiumLibV.pas -> D:\yang2020\杨良山\通用工具\新的多线程下载演示\PdfiumLib.pas
+2026-11-19 16:40:45,文件,内容修改：D:\yang2020\杨良山\通用工具\新的多线程下载演示
+2026-11-19 16:40:50,文件,创建文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\PDF转大图64位程序.vrc
+2026-11-19 16:40:50,文件,创建文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\PDF转大图64位程序.$manifest
+2026-11-19 16:40:50,文件,内容修改：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\PDF转大图64位程序.$manifest
+2026-11-19 16:40:50,文件,内容修改：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\PDF转大图64位程序.vrc
+2026-11-19 16:40:50,文件,创建文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\RCa46272
+2026-11-19 16:40:50,文件,内容修改：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\RCa46272
+2026-11-19 16:40:50,文件,创建文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\RDa46272
+2026-11-19 16:40:50,文件,内容修改：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\RDa46272
+2026-11-19 16:40:50,文件,内容修改：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\PDF转大图64位程序.res
+2026-11-19 16:40:50,文件,删除文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\RCa46272
+2026-11-19 16:40:50,文件,删除文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\RDa46272
+2026-11-19 16:40:50,文件,删除文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\PDF转大图64位程序.vrc
+2026-11-19 16:40:50,文件,删除文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\PDF转大图64位程序.$manifest
+2026-11-19 16:40:50,文件,内容修改：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source
+2026-11-19 16:40:50,文件,内容修改：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\Win64\Release\PdfiumLib.dcu
+2026-11-19 16:40:50,文件,内容修改：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\Win64\Release\PdfiumCore.dcu
+2026-11-19 16:41:00,文件,移动/重命名文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\PdfiumCtrlV.pas -> D:\yang2020\杨良山\通用工具\新的多线程下载演示\PdfiumCtrl.pas
+2026-11-19 16:41:00,文件,内容修改：D:\yang2020\杨良山\通用工具\新的多线程下载演示
+2026-11-19 16:41:11,文件,创建文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Win32\Release\bin\PDF转大图64位程序.exe
+2026-11-19 16:41:11,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Win32\Release\bin\PDF转大图64位程序.exe
+2026-11-19 16:41:12,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Win32\Release\bin
+2026-11-19 16:41:16,文件,删除文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Win32\Release\bin\PDF2BigJPG.exe
+2026-11-19 16:41:16,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Win32\Release\bin
+2026-11-19 16:41:17,文件,移动/重命名文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Win32\Release\bin\PDF转大图64位程序.exe -> D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Win32\Release\bin\PDF2BigJPG.exe
+2026-11-19 16:41:17,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Win32\Release\bin
+2026-11-19 16:41:24,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Win32\Release\mysettings.ini
+2026-11-19 16:41:25,告警,CPU 使用率 92.6%，超过阈值 90% | CPU 占用最高的 3 个程序：explorer.exe（8.7%）、ctfmon.exe（8.2%）、svchost.exe（7.7%） | 
+2026-11-19 16:42:44,文件,删除文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\UPdf2JPG.pas
+2026-11-19 16:42:44,文件,移动/重命名文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\UPdf2JPG.$$$ -> D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\UPdf2JPG.pas
+2026-11-19 16:42:44,文件,创建文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\UPdf2JPG.$$$
+2026-11-19 16:42:44,文件,内容修改：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\UPdf2JPG.$$$
+2026-11-19 16:42:44,文件,删除文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\UPdf2JPG.dfm
+2026-11-19 16:42:44,文件,移动/重命名文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\UPdf2JPG.$$$ -> D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\UPdf2JPG.dfm
+2026-11-19 16:42:44,文件,内容修改：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source
+2026-11-19 16:42:48,文件,创建文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\PDF转大图64位程序.dproj.$$$
+2026-11-19 16:42:48,文件,内容修改：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\PDF转大图64位程序.dproj.$$$
+2026-11-19 16:42:48,文件,删除文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\PDF转大图64位程序.dproj.local
+2026-11-19 16:42:48,文件,移动/重命名文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\PDF转大图64位程序.dproj.$$$ -> D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\PDF转大图64位程序.dproj.local
+2026-11-19 16:42:48,文件,内容修改：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source
+2026-11-19 16:42:48,文件,内容修改：D:\yang2020\杨良山\通用工具\新的多线程下载演示\tools\微信工具\微信公众号采集工具\source\others\myprojects\PDF转大图64位程序\source\PDF转大图64位程序.identcache
+2026-11-19 16:42:48,文件,创建文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\__recovery\__recovery.ini
+2026-11-19 16:42:48,文件,删除文件：D:\yang2020\杨良山\通用工具\新的多线程下载演示\__recovery\__recovery.ini
+2026-11-19 16:42:55,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Win32\Release\程序修改要求.txt
+2026-11-19 16:43:52,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\__history
+2026-11-19 16:43:52,文件,删除文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.pas
+2026-11-19 16:43:52,文件,移动/重命名文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.$$$ -> D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.pas
+2026-11-19 16:43:52,文件,创建文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.$$$
+2026-11-19 16:43:52,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.$$$
+2026-11-19 16:43:52,文件,删除文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.dfm
+2026-11-19 16:43:52,文件,移动/重命名文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.$$$ -> D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.dfm
+2026-11-19 16:43:52,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source
+2026-11-19 16:43:52,文件,创建文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\__recovery\__recovery.ini
+2026-11-19 16:43:53,文件,删除文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\__recovery\__recovery.ini
+2026-11-19 16:43:53,文件,删除文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.pas
+2026-11-19 16:43:53,文件,移动/重命名文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.$$$ -> D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.pas
+2026-11-19 16:43:53,文件,创建文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.$$$
+2026-11-19 16:43:53,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.$$$
+2026-11-19 16:43:53,文件,删除文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.dfm
+2026-11-19 16:43:53,文件,移动/重命名文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.$$$ -> D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.dfm
+2026-11-19 16:43:53,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source
+2026-11-19 16:43:53,文件,创建文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\__recovery\__recovery.ini
+2026-11-19 16:43:53,文件,删除文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\__recovery\__recovery.ini
+2026-11-19 16:44:04,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\__history
+2026-11-19 16:44:04,文件,删除文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.pas
+2026-11-19 16:44:04,文件,移动/重命名文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.$$$ -> D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.pas
+2026-11-19 16:44:04,文件,创建文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.$$$
+2026-11-19 16:44:04,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.$$$
+2026-11-19 16:44:04,文件,删除文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.dfm
+2026-11-19 16:44:04,文件,移动/重命名文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.$$$ -> D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.dfm
+2026-11-19 16:44:04,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source
+2026-11-19 16:44:04,文件,创建文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\__recovery\__recovery.ini
+2026-11-19 16:44:04,文件,删除文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\__recovery\__recovery.ini
+2026-11-19 16:44:05,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\__history
+2026-11-19 16:44:05,文件,删除文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.pas
+2026-11-19 16:44:05,文件,移动/重命名文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.$$$ -> D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.pas
+2026-11-19 16:44:05,文件,创建文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.$$$
+2026-11-19 16:44:05,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.$$$
+2026-11-19 16:44:05,文件,删除文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.dfm
+2026-11-19 16:44:05,文件,移动/重命名文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.$$$ -> D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.dfm
+2026-11-19 16:44:05,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source
+2026-11-19 16:44:05,文件,创建文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\__recovery\__recovery.ini
+2026-11-19 16:44:05,文件,删除文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\__recovery\__recovery.ini
+2026-11-19 16:44:20,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\__history
+2026-11-19 16:44:20,文件,删除文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.pas
+2026-11-19 16:44:20,文件,移动/重命名文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.$$$ -> D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.pas
+2026-11-19 16:44:20,文件,创建文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.$$$
+2026-11-19 16:44:20,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.$$$
+2026-11-19 16:44:20,文件,删除文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.dfm
+2026-11-19 16:44:20,文件,移动/重命名文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.$$$ -> D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.dfm
+2026-11-19 16:44:20,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source
+2026-11-19 16:44:20,文件,创建文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\__recovery\__recovery.ini
+2026-11-19 16:44:21,文件,删除文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\__recovery\__recovery.ini
+2026-11-19 16:44:32,文件,删除文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.pas
+2026-11-19 16:44:32,文件,移动/重命名文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.$$$ -> D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.pas
+2026-11-19 16:44:32,文件,创建文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.$$$
+2026-11-19 16:44:32,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.$$$
+2026-11-19 16:44:32,文件,删除文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.dfm
+2026-11-19 16:44:32,文件,移动/重命名文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.$$$ -> D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.dfm
+2026-11-19 16:44:32,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source
+2026-11-19 16:44:32,文件,创建文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\__recovery\__recovery.ini
+2026-11-19 16:44:32,文件,删除文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\__recovery\__recovery.ini
+2026-11-19 16:44:32,文件,删除文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.pas
+2026-11-19 16:44:32,文件,移动/重命名文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.$$$ -> D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.pas
+2026-11-19 16:44:32,文件,创建文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.$$$
+2026-11-19 16:44:32,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.$$$
+2026-11-19 16:44:32,文件,删除文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.dfm
+2026-11-19 16:44:32,文件,移动/重命名文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.$$$ -> D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.dfm
+2026-11-19 16:44:32,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source
+2026-11-19 16:44:32,文件,创建文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\__recovery\__recovery.ini
+2026-11-19 16:44:32,文件,删除文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\__recovery\__recovery.ini
+2026-11-19 16:44:33,文件,删除文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.pas
+2026-11-19 16:44:33,文件,移动/重命名文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.$$$ -> D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.pas
+2026-11-19 16:44:33,文件,创建文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.$$$
+2026-11-19 16:44:33,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.$$$
+2026-11-19 16:44:33,文件,删除文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.dfm
+2026-11-19 16:44:33,文件,移动/重命名文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.$$$ -> D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.dfm
+2026-11-19 16:44:33,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source
+2026-11-19 16:44:33,文件,创建文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\__recovery\__recovery.ini
+2026-11-19 16:44:33,文件,删除文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\__recovery\__recovery.ini
+2026-11-19 16:44:33,文件,删除文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.pas
+2026-11-19 16:44:33,文件,移动/重命名文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.$$$ -> D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.pas
+2026-11-19 16:44:33,文件,创建文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.$$$
+2026-11-19 16:44:33,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.$$$
+2026-11-19 16:44:33,文件,删除文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.dfm
+2026-11-19 16:44:33,文件,移动/重命名文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.$$$ -> D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.dfm
+2026-11-19 16:44:33,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source
+2026-11-19 16:44:33,文件,创建文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\__recovery\__recovery.ini
+2026-11-19 16:44:33,文件,删除文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\__recovery\__recovery.ini
+2026-11-19 16:44:34,文件,删除文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.pas
+2026-11-19 16:44:34,文件,移动/重命名文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.$$$ -> D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.pas
+2026-11-19 16:44:34,文件,创建文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.$$$
+2026-11-19 16:44:34,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.$$$
+2026-11-19 16:44:34,文件,删除文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.dfm
+2026-11-19 16:44:34,文件,移动/重命名文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.$$$ -> D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.dfm
+2026-11-19 16:44:34,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source
+2026-11-19 16:44:34,文件,创建文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\__recovery\__recovery.ini
+2026-11-19 16:44:34,文件,删除文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\__recovery\__recovery.ini
+2026-11-19 16:44:34,文件,删除文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.pas
+2026-11-19 16:44:34,文件,移动/重命名文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.$$$ -> D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.pas
+2026-11-19 16:44:34,文件,创建文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.$$$
+2026-11-19 16:44:34,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.$$$
+2026-11-19 16:44:34,文件,删除文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.dfm
+2026-11-19 16:44:34,文件,移动/重命名文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.$$$ -> D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.dfm
+2026-11-19 16:44:34,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source
+2026-11-19 16:44:34,文件,创建文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\__recovery\__recovery.ini
+2026-11-19 16:44:35,文件,删除文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\__recovery\__recovery.ini
+2026-11-19 16:44:37,文件,删除文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.pas
+2026-11-19 16:44:37,文件,移动/重命名文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.$$$ -> D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.pas
+2026-11-19 16:44:37,文件,创建文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.$$$
+2026-11-19 16:44:37,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.$$$
+2026-11-19 16:44:37,文件,删除文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.dfm
+2026-11-19 16:44:37,文件,移动/重命名文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.$$$ -> D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.dfm
+2026-11-19 16:44:37,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source
+2026-11-19 16:44:37,文件,创建文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\__recovery\__recovery.ini
+2026-11-19 16:44:37,文件,删除文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\__recovery\__recovery.ini
+2026-11-19 16:45:26,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\__history
+2026-11-19 16:45:26,文件,删除文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.pas
+2026-11-19 16:45:26,文件,移动/重命名文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.$$$ -> D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.pas
+2026-11-19 16:45:26,文件,创建文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.$$$
+2026-11-19 16:45:26,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.$$$
+2026-11-19 16:45:26,文件,删除文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.dfm
+2026-11-19 16:45:26,文件,移动/重命名文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.$$$ -> D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.dfm
+2026-11-19 16:45:26,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source
+2026-11-19 16:45:26,文件,创建文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\__recovery\__recovery.ini
+2026-11-19 16:45:26,文件,删除文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\__recovery\__recovery.ini
+2026-11-19 16:45:34,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\__history
+2026-11-19 16:45:34,文件,删除文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.pas
+2026-11-19 16:45:34,文件,移动/重命名文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.$$$ -> D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.pas
+2026-11-19 16:45:34,文件,创建文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.$$$
+2026-11-19 16:45:34,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.$$$
+2026-11-19 16:45:34,文件,删除文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.dfm
+2026-11-19 16:45:35,文件,移动/重命名文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.$$$ -> D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.dfm
+2026-11-19 16:45:35,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source
+2026-11-19 16:45:35,文件,创建文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\__recovery\__recovery.ini
+2026-11-19 16:45:35,文件,删除文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\__recovery\__recovery.ini
+2026-11-19 16:45:35,文件,创建文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\中少总社数字资源处理工具.vrc
+2026-11-19 16:45:35,文件,创建文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\中少总社数字资源处理工具.$manifest
+2026-11-19 16:45:35,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\中少总社数字资源处理工具.$manifest
+2026-11-19 16:45:35,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\中少总社数字资源处理工具.vrc
+2026-11-19 16:45:35,文件,创建文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\RCa21536
+2026-11-19 16:45:35,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\RCa21536
+2026-11-19 16:45:35,文件,创建文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\RDa21536
+2026-11-19 16:45:35,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\RDa21536
+2026-11-19 16:45:35,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\中少总社数字资源处理工具.res
+2026-11-19 16:45:36,文件,删除文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\RCa21536
+2026-11-19 16:45:36,文件,删除文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\RDa21536
+2026-11-19 16:45:36,文件,删除文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\中少总社数字资源处理工具.vrc
+2026-11-19 16:45:36,文件,删除文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\中少总社数字资源处理工具.$manifest
+2026-11-19 16:45:36,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source
+2026-11-19 16:45:37,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Win32\Release\dcus\uPublics.dcu
+2026-11-19 16:45:37,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Win32\Release\dcus\uToolsPDF.dcu
+2026-11-19 16:45:37,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Win32\Release\dcus\GDIPAPI.dcu
+2026-11-19 16:45:37,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Win32\Release\dcus\GDIPOBJ.dcu
+2026-11-19 16:45:37,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Win32\Release\dcus\uToolsImage.dcu
+2026-11-19 16:45:37,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Win32\Release\dcus\uToolsRAR.dcu
+2026-11-19 16:45:37,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Win32\Release\dcus\uParseXMLv3.dcu
+2026-11-19 16:45:37,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Win32\Release\dcus\uMagazineExtractor.dcu
+2026-11-19 16:45:37,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Win32\Release\dcus\MyStrUtils.dcu
+2026-11-19 16:45:37,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Win32\Release\dcus\MyIOUtils.dcu
+2026-11-19 16:45:37,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Win32\Release\dcus\MyConfigTool.dcu
+2026-11-19 16:45:38,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Win32\Release\dcus\MyGraphicUtils.dcu
+2026-11-19 16:45:38,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Win32\Release\dcus\Office4D.Errors.dcu
+2026-11-19 16:45:38,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Win32\Release\dcus\Office4D.Package.dcu
+2026-11-19 16:45:38,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Win32\Release\dcus\Office4D.Types.dcu
+2026-11-19 16:45:38,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Win32\Release\dcus\Office4D.Metadata.dcu
+2026-11-19 16:45:38,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Win32\Release\dcus\Office4D.Word.Model.dcu
+2026-11-19 16:45:38,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Win32\Release\dcus\Office4D.Xml.dcu
+2026-11-19 16:45:38,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Win32\Release\dcus\Office4D.Relationships.dcu
+2026-11-19 16:45:38,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Win32\Release\dcus\Office4D.Word.Reader.dcu
+2026-11-19 16:45:38,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Win32\Release\dcus\Office4D.Word.Writer.dcu
+2026-11-19 16:45:38,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Win32\Release\dcus\Office4D.Word.Document.dcu
+2026-11-19 16:45:38,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Win32\Release\dcus\Office4D.Word.dcu
+2026-11-19 16:45:38,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Win32\Release\dcus\uDocxTemplate.dcu
+2026-11-19 16:45:38,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Win32\Release\dcus\Unit5.dcu
+2026-11-19 16:45:38,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Win32\Release\中少总社数字资源处理工具.exe
+2026-11-19 16:45:46,告警,CPU 使用率 100.0%，超过阈值 90% | CPU 占用最高的 3 个程序：explorer.exe（23.1%）、ctfmon.exe（8.4%）、svchost.exe（7.0%） | 
+2026-11-19 16:46:09,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Win32\Release\mysettings.ini
+2026-11-19 16:46:16,告警,CPU 使用率 100.0%，超过阈值 90% | CPU 占用最高的 3 个程序：Rar.exe（64.1%）、ctfmon.exe（8.5%）、svchost.exe（4.8%） | 
+2026-11-19 16:47:33,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\__history
+2026-11-19 16:47:33,文件,删除文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.pas
+2026-11-19 16:47:33,文件,移动/重命名文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.$$$ -> D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.pas
+2026-11-19 16:47:33,文件,创建文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.$$$
+2026-11-19 16:47:33,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.$$$
+2026-11-19 16:47:33,文件,删除文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.dfm
+2026-11-19 16:47:33,文件,移动/重命名文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.$$$ -> D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.dfm
+2026-11-19 16:47:33,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source
+2026-11-19 16:47:33,文件,创建文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\__recovery\__recovery.ini
+2026-11-19 16:47:34,文件,删除文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\__recovery\__recovery.ini
+2026-11-19 16:47:53,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\__history
+2026-11-19 16:47:53,文件,删除文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.pas
+2026-11-19 16:47:53,文件,移动/重命名文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.$$$ -> D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.pas
+2026-11-19 16:47:53,文件,创建文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.$$$
+2026-11-19 16:47:53,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.$$$
+2026-11-19 16:47:53,文件,删除文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.dfm
+2026-11-19 16:47:53,文件,移动/重命名文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.$$$ -> D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.dfm
+2026-11-19 16:47:53,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source
+2026-11-19 16:47:53,文件,创建文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\__recovery\__recovery.ini
+2026-11-19 16:47:53,文件,删除文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\__recovery\__recovery.ini
+2026-11-19 16:47:54,文件,内容修改：D:\lazaruslite32\components\3rd\TMS\FlexCel\Setup\flxsymlink.exe
+2026-11-19 16:47:55,文件,内容修改：D:\lazaruslite32\components\3rd\TMS\FlexCel\Setup\toolboxvcl.exe
+2026-11-19 16:48:00,文件,删除文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.pas
+2026-11-19 16:48:00,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\__history
+2026-11-19 16:48:00,文件,移动/重命名文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.$$$ -> D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.pas
+2026-11-19 16:48:00,文件,创建文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.$$$
+2026-11-19 16:48:00,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.$$$
+2026-11-19 16:48:00,文件,删除文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.dfm
+2026-11-19 16:48:00,文件,移动/重命名文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.$$$ -> D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.dfm
+2026-11-19 16:48:00,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source
+2026-11-19 16:48:00,文件,创建文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\__recovery\__recovery.ini
+2026-11-19 16:48:00,文件,删除文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\__recovery\__recovery.ini
+2026-11-19 16:48:09,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\__history
+2026-11-19 16:48:09,文件,删除文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.pas
+2026-11-19 16:48:09,文件,移动/重命名文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.$$$ -> D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.pas
+2026-11-19 16:48:09,文件,创建文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.$$$
+2026-11-19 16:48:09,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.$$$
+2026-11-19 16:48:09,文件,删除文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.dfm
+2026-11-19 16:48:09,文件,移动/重命名文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.$$$ -> D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.dfm
+2026-11-19 16:48:09,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source
+2026-11-19 16:48:09,文件,创建文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\__recovery\__recovery.ini
+2026-11-19 16:48:09,文件,删除文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.pas
+2026-11-19 16:48:09,文件,移动/重命名文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.$$$ -> D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.pas
+2026-11-19 16:48:09,文件,创建文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.$$$
+2026-11-19 16:48:09,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.$$$
+2026-11-19 16:48:09,文件,删除文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.dfm
+2026-11-19 16:48:09,文件,移动/重命名文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.$$$ -> D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.dfm
+2026-11-19 16:48:09,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source
+2026-11-19 16:48:09,文件,创建文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\__recovery\__recovery.ini
+2026-11-19 16:48:09,文件,删除文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\__recovery\__recovery.ini
+2026-11-19 16:48:11,文件,删除文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.pas
+2026-11-19 16:48:11,文件,移动/重命名文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.$$$ -> D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.pas
+2026-11-19 16:48:11,文件,创建文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.$$$
+2026-11-19 16:48:11,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.$$$
+2026-11-19 16:48:11,文件,删除文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.dfm
+2026-11-19 16:48:11,文件,移动/重命名文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.$$$ -> D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.dfm
+2026-11-19 16:48:12,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source
+2026-11-19 16:48:12,文件,创建文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\__recovery\__recovery.ini
+2026-11-19 16:48:12,文件,删除文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\__recovery\__recovery.ini
+2026-11-19 16:48:22,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\__history
+2026-11-19 16:48:22,文件,删除文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.pas
+2026-11-19 16:48:22,文件,移动/重命名文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.$$$ -> D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.pas
+2026-11-19 16:48:22,文件,创建文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.$$$
+2026-11-19 16:48:22,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.$$$
+2026-11-19 16:48:22,文件,删除文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.dfm
+2026-11-19 16:48:22,文件,移动/重命名文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.$$$ -> D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.dfm
+2026-11-19 16:48:22,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source
+2026-11-19 16:48:22,文件,创建文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\__recovery\__recovery.ini
+2026-11-19 16:48:23,文件,删除文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.pas
+2026-11-19 16:48:23,文件,移动/重命名文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.$$$ -> D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.pas
+2026-11-19 16:48:23,文件,创建文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.$$$
+2026-11-19 16:48:23,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.$$$
+2026-11-19 16:48:23,文件,删除文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.dfm
+2026-11-19 16:48:23,文件,移动/重命名文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.$$$ -> D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.dfm
+2026-11-19 16:48:23,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source
+2026-11-19 16:48:23,文件,创建文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\__recovery\__recovery.ini
+2026-11-19 16:48:23,文件,删除文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\__recovery\__recovery.ini
+2026-11-19 16:48:23,文件,删除文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.pas
+2026-11-19 16:48:23,文件,移动/重命名文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.$$$ -> D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.pas
+2026-11-19 16:48:23,文件,创建文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.$$$
+2026-11-19 16:48:23,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.$$$
+2026-11-19 16:48:23,文件,删除文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.dfm
+2026-11-19 16:48:23,文件,移动/重命名文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.$$$ -> D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.dfm
+2026-11-19 16:48:23,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source
+2026-11-19 16:48:24,文件,创建文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\__recovery\__recovery.ini
+2026-11-19 16:48:24,文件,删除文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\__recovery\__recovery.ini
+2026-11-19 16:48:27,文件,创建文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\中少总社数字资源处理工具.vrc
+2026-11-19 16:48:27,文件,创建文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\中少总社数字资源处理工具.$manifest
+2026-11-19 16:48:27,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\中少总社数字资源处理工具.$manifest
+2026-11-19 16:48:27,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\中少总社数字资源处理工具.vrc
+2026-11-19 16:48:27,文件,创建文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\RCa52368
+2026-11-19 16:48:27,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\RCa52368
+2026-11-19 16:48:27,文件,创建文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\RDa52368
+2026-11-19 16:48:27,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\RDa52368
+2026-11-19 16:48:27,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\中少总社数字资源处理工具.res
+2026-11-19 16:48:27,文件,删除文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\RCa52368
+2026-11-19 16:48:27,文件,删除文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\RDa52368
+2026-11-19 16:48:27,文件,删除文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\中少总社数字资源处理工具.vrc
+2026-11-19 16:48:27,文件,删除文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\中少总社数字资源处理工具.$manifest
+2026-11-19 16:48:27,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source
+2026-11-19 16:48:27,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Win32\Release\dcus\uPublics.dcu
+2026-11-19 16:48:27,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Win32\Release\dcus\uToolsPDF.dcu
+2026-11-19 16:48:27,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Win32\Release\dcus\GDIPAPI.dcu
+2026-11-19 16:48:27,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Win32\Release\dcus\GDIPOBJ.dcu
+2026-11-19 16:48:27,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Win32\Release\dcus\uToolsImage.dcu
+2026-11-19 16:48:28,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Win32\Release\dcus\uToolsRAR.dcu
+2026-11-19 16:48:28,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Win32\Release\dcus\uParseXMLv3.dcu
+2026-11-19 16:48:28,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Win32\Release\dcus\uMagazineExtractor.dcu
+2026-11-19 16:48:28,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Win32\Release\dcus\MyStrUtils.dcu
+2026-11-19 16:48:28,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Win32\Release\dcus\MyIOUtils.dcu
+2026-11-19 16:48:28,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Win32\Release\dcus\MyConfigTool.dcu
+2026-11-19 16:48:28,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Win32\Release\dcus\MyGraphicUtils.dcu
+2026-11-19 16:48:28,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Win32\Release\dcus\Office4D.Errors.dcu
+2026-11-19 16:48:28,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Win32\Release\dcus\Office4D.Package.dcu
+2026-11-19 16:48:28,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Win32\Release\dcus\Office4D.Types.dcu
+2026-11-19 16:48:28,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Win32\Release\dcus\Office4D.Metadata.dcu
+2026-11-19 16:48:28,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Win32\Release\dcus\Office4D.Word.Model.dcu
+2026-11-19 16:48:28,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Win32\Release\dcus\Office4D.Xml.dcu
+2026-11-19 16:48:28,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Win32\Release\dcus\Office4D.Relationships.dcu
+2026-11-19 16:48:28,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Win32\Release\dcus\Office4D.Word.Reader.dcu
+2026-11-19 16:48:28,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Win32\Release\dcus\Office4D.Word.Writer.dcu
+2026-11-19 16:48:28,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Win32\Release\dcus\Office4D.Word.Document.dcu
+2026-11-19 16:48:29,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Win32\Release\dcus\Office4D.Word.dcu
+2026-11-19 16:48:29,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Win32\Release\dcus\uDocxTemplate.dcu
+2026-11-19 16:48:29,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Win32\Release\dcus\Unit5.dcu
+2026-11-19 16:48:29,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Win32\Release\中少总社数字资源处理工具.exe
+2026-11-19 16:48:37,告警,CPU 使用率 100.0%，超过阈值 90% | CPU 占用最高的 3 个程序：explorer.exe（21.4%）、ctfmon.exe（8.5%）、svchost.exe（8.1%） | 
+2026-11-19 16:48:44,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Win32\Release\mysettings.ini
+2026-11-19 16:49:25,告警,CPU 使用率 100.0%，超过阈值 90% | CPU 占用最高的 3 个程序：MsMpEng.exe（10.7%）、wps.exe（10.7%）、wps.exe（9.2%） | 
+2026-11-19 16:49:40,文件,内容修改：D:\lazaruslite32\components\3rd\TMS\FlexCel\Tools\CompiledTools\ApiMateRadStudio.exe
+2026-11-19 16:49:40,文件,内容修改：D:\lazaruslite32\components\3rd\TMS\FlexCel\Tools\CompiledTools\infoplist.exe
+2026-11-19 16:49:40,文件,内容修改：D:\lazaruslite32\components\3rd\TMS\FlexCel\Tools\CompiledTools\ReportConverter.exe
+2026-11-19 16:49:42,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Win32\Release\程序修改要求.txt
+2026-11-19 16:49:51,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Win32\Release\程序修改要求.txt
+2026-11-19 16:50:13,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\__history
+2026-11-19 16:50:13,文件,删除文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.pas
+2026-11-19 16:50:13,文件,移动/重命名文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.$$$ -> D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.pas
+2026-11-19 16:50:13,文件,创建文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.$$$
+2026-11-19 16:50:13,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.$$$
+2026-11-19 16:50:13,文件,删除文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.dfm
+2026-11-19 16:50:13,文件,移动/重命名文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.$$$ -> D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.dfm
+2026-11-19 16:50:13,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source
+2026-11-19 16:50:14,文件,创建文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\__recovery\__recovery.ini
+2026-11-19 16:50:14,文件,删除文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\__recovery\__recovery.ini
+2026-11-19 16:50:14,文件,创建文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\中少总社数字资源处理工具.vrc
+2026-11-19 16:50:14,文件,创建文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\中少总社数字资源处理工具.$manifest
+2026-11-19 16:50:14,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\中少总社数字资源处理工具.$manifest
+2026-11-19 16:50:14,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\中少总社数字资源处理工具.vrc
+2026-11-19 16:50:14,文件,创建文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\RCa45536
+2026-11-19 16:50:14,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\RCa45536
+2026-11-19 16:50:14,文件,创建文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\RDa45536
+2026-11-19 16:50:14,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\RDa45536
+2026-11-19 16:50:14,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\中少总社数字资源处理工具.res
+2026-11-19 16:50:14,文件,删除文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\RCa45536
+2026-11-19 16:50:14,文件,删除文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\RDa45536
+2026-11-19 16:50:15,文件,删除文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\中少总社数字资源处理工具.vrc
+2026-11-19 16:50:15,文件,删除文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\中少总社数字资源处理工具.$manifest
+2026-11-19 16:50:15,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source
+2026-11-19 16:50:15,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Win32\Release\dcus\uPublics.dcu
+2026-11-19 16:50:15,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Win32\Release\dcus\uToolsPDF.dcu
+2026-11-19 16:50:15,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Win32\Release\dcus\GDIPAPI.dcu
+2026-11-19 16:50:15,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Win32\Release\dcus\GDIPOBJ.dcu
+2026-11-19 16:50:15,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Win32\Release\dcus\uToolsImage.dcu
+2026-11-19 16:50:15,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Win32\Release\dcus\uToolsRAR.dcu
+2026-11-19 16:50:16,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Win32\Release\dcus\uParseXMLv3.dcu
+2026-11-19 16:50:16,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Win32\Release\dcus\uMagazineExtractor.dcu
+2026-11-19 16:50:16,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Win32\Release\dcus\MyStrUtils.dcu
+2026-11-19 16:50:16,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Win32\Release\dcus\MyIOUtils.dcu
+2026-11-19 16:50:16,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Win32\Release\dcus\MyConfigTool.dcu
+2026-11-19 16:50:16,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Win32\Release\dcus\MyGraphicUtils.dcu
+2026-11-19 16:50:17,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Win32\Release\dcus\Office4D.Errors.dcu
+2026-11-19 16:50:17,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Win32\Release\dcus\Office4D.Package.dcu
+2026-11-19 16:50:17,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Win32\Release\dcus\Office4D.Types.dcu
+2026-11-19 16:50:17,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Win32\Release\dcus\Office4D.Metadata.dcu
+2026-11-19 16:50:17,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Win32\Release\dcus\Office4D.Word.Model.dcu
+2026-11-19 16:50:17,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Win32\Release\dcus\Office4D.Xml.dcu
+2026-11-19 16:50:17,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Win32\Release\dcus\Office4D.Relationships.dcu
+2026-11-19 16:50:17,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Win32\Release\dcus\Office4D.Word.Reader.dcu
+2026-11-19 16:50:17,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Win32\Release\dcus\Office4D.Word.Writer.dcu
+2026-11-19 16:50:17,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Win32\Release\dcus\Office4D.Word.Document.dcu
+2026-11-19 16:50:17,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Win32\Release\dcus\Office4D.Word.dcu
+2026-11-19 16:50:17,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Win32\Release\dcus\uDocxTemplate.dcu
+2026-11-19 16:50:17,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Win32\Release\dcus\Unit5.dcu
+2026-11-19 16:50:17,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Win32\Release\中少总社数字资源处理工具.exe
+2026-11-19 16:50:18,文件,删除文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.pas
+2026-11-19 16:50:18,文件,移动/重命名文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.$$$ -> D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.pas
+2026-11-19 16:50:18,文件,创建文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.$$$
+2026-11-19 16:50:18,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.$$$
+2026-11-19 16:50:18,文件,删除文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.dfm
+2026-11-19 16:50:18,文件,移动/重命名文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.$$$ -> D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.dfm
+2026-11-19 16:50:18,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source
+2026-11-19 16:50:18,文件,创建文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\__recovery\__recovery.ini
+2026-11-19 16:50:18,文件,删除文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\__recovery\__recovery.ini
+2026-11-19 16:50:18,文件,删除文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.pas
+2026-11-19 16:50:18,文件,移动/重命名文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.$$$ -> D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.pas
+2026-11-19 16:50:18,文件,创建文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.$$$
+2026-11-19 16:50:18,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.$$$
+2026-11-19 16:50:18,文件,删除文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.dfm
+2026-11-19 16:50:18,文件,移动/重命名文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.$$$ -> D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.dfm
+2026-11-19 16:50:18,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source
+2026-11-19 16:50:18,文件,创建文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\__recovery\__recovery.ini
+2026-11-19 16:50:18,文件,删除文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\__recovery\__recovery.ini
+2026-11-19 16:51:10,文件,删除文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Win32\Release\bin\@x86
+2026-11-19 16:51:10,文件,删除文件夹：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Win32\Release\bin\@x86
+2026-11-19 16:51:10,文件,删除文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Win32\Release\bin\@x86\pdfium.dll
+2026-11-19 16:51:10,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Win32\Release\bin
+2026-11-19 16:51:17,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\__recovery
+2026-11-19 16:51:20,文件,创建文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Win32\Release\pdfium.dll
+2026-11-19 16:51:20,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Win32\Release\pdfium.dll
+2026-11-19 16:51:21,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Win32\Release
+2026-11-19 16:51:23,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Win32\Release
+2026-11-19 16:51:25,文件,删除文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Win32\Release\pdfium.dll
+2026-11-19 16:51:25,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Win32\Release
+2026-11-19 16:51:57,文件,删除文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.pas
+2026-11-19 16:51:57,文件,移动/重命名文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.$$$ -> D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.pas
+2026-11-19 16:51:57,文件,创建文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.$$$
+2026-11-19 16:51:57,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.$$$
+2026-11-19 16:51:57,文件,删除文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.dfm
+2026-11-19 16:51:57,文件,移动/重命名文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.$$$ -> D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\Unit5.dfm
+2026-11-19 16:51:57,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source
+2026-11-19 16:51:57,文件,创建文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\__recovery\__recovery.ini
+2026-11-19 16:51:57,文件,删除文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\__recovery\__recovery.ini
+2026-11-19 16:55:08,文件,内容修改：D:\yang2020\myBase\myBase_202004.nyf
+2026-11-19 16:55:08,文件,内容修改：D:\yang2020\myBase\myBase_202004.dbindex
+2026-11-19 16:55:18,文件,创建文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\中少总社数字资源处理工具.dproj.$$$
+2026-11-19 16:55:18,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\中少总社数字资源处理工具.dproj.$$$
+2026-11-19 16:55:18,文件,删除文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\中少总社数字资源处理工具.dproj.local
+2026-11-19 16:55:18,文件,移动/重命名文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\中少总社数字资源处理工具.dproj.$$$ -> D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\中少总社数字资源处理工具.dproj.local
+2026-11-19 16:55:18,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source
+2026-11-19 16:55:18,文件,内容修改：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\中少总社数字资源处理工具.identcache
+2026-11-19 16:55:18,文件,创建文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\__recovery\__recovery.ini
+2026-11-19 16:55:18,文件,删除文件：D:\yang\projects\刘金蛾\中少总社数字资源处理工具\source\__recovery\__recovery.ini
+2026-11-19 16:55:43,文件,内容修改：D:\yang2020\myBase\myBase_202004.nyf
+2026-11-19 16:55:58,文件,内容修改：D:\tools\myBaseDesktop\myBase.ini
+2026-11-19 16:55:58,文件,内容修改：D:\yang2020\myBase\myBase_202004.dbindex
+2026-11-19 16:55:58,文件,内容修改：D:\yang2020\myBase\myBase_202004.nyf
+2026-11-19 16:56:28,文件,创建文件：D:\yang\projects\朱玉香\求是杂志OCR转标引工具\source\求是杂志OCR转标引工具.dproj.$$$
+2026-11-19 16:56:28,文件,内容修改：D:\yang\projects\朱玉香\求是杂志OCR转标引工具\source\求是杂志OCR转标引工具.dproj.$$$
+2026-11-19 16:56:28,文件,删除文件：D:\yang\projects\朱玉香\求是杂志OCR转标引工具\source\求是杂志OCR转标引工具.dproj.local
+2026-11-19 16:56:28,文件,移动/重命名文件：D:\yang\projects\朱玉香\求是杂志OCR转标引工具\source\求是杂志OCR转标引工具.dproj.$$$ -> D:\yang\projects\朱玉香\求是杂志OCR转标引工具\source\求是杂志OCR转标引工具.dproj.local
+2026-11-19 16:56:28,文件,内容修改：D:\yang\projects\朱玉香\求是杂志OCR转标引工具\source
+2026-11-19 16:56:28,文件,内容修改：D:\yang\projects\朱玉香\求是杂志OCR转标引工具\source\求是杂志OCR转标引工具.identcache
+2026-11-19 16:56:28,文件,创建文件：D:\yang\projects\朱玉香\求是杂志OCR转标引工具\source\__recovery\__recovery.ini
+2026-11-19 16:56:28,文件,删除文件：D:\yang\projects\朱玉香\求是杂志OCR转标引工具\source\__recovery\__recovery.ini
+2026-11-19 16:59:05,文件,内容修改：E:\laz3.3\fpcsrc\utils\fpmake.exe
+2026-11-19 17:03:11,告警,CPU 使用率 100.0%，超过阈值 90% | CPU 占用最高的 3 个程序：explorer.exe（13.4%）、ctfmon.exe（8.2%）、svchost.exe（8.2%） | 
+2026-11-19 17:04:20,告警,CPU 使用率 97.5%，超过阈值 90% | CPU 占用最高的 3 个程序：explorer.exe（18.4%）、svchost.exe（8.6%）、ctfmon.exe（8.3%） | 
+2026-11-19 17:09:47,文件,内容修改：D:\yang2020\yls\AssistTools\文件下载工具\20240823-GitHub加速器fastgithub(1)\Github加速工具Win版\fastgithub_win-x64\dnsendpoints.json
+2026-11-19 17:09:52,文件,内容修改：D:\yang2020\yls\AssistTools\文件下载工具\20240823-GitHub加速器fastgithub(1)\Github加速工具Win版\fastgithub_win-x64\dnsendpoints.json
+2026-11-19 17:10:00,告警,CPU 使用率 100.0%，超过阈值 90% | CPU 占用最高的 3 个程序：shchrome.exe（35.6%）、ctfmon.exe（8.4%）、svchost.exe（8.0%） | 
+2026-11-19 17:10:00,文件,内容修改：D:\yang2020\yls\AssistTools\文件下载工具\20240823-GitHub加速器fastgithub(1)\Github加速工具Win版\fastgithub_win-x64\dnsendpoints.json
+2026-11-19 17:10:34,告警,CPU 使用率 100.0%，超过阈值 90% | CPU 占用最高的 3 个程序：shchrome.exe（65.3%）、ctfmon.exe（8.4%）、svchost.exe（7.7%） | 
+2026-11-19 17:11:04,文件,内容修改：D:\tools\海螺快搜\config.ini
+2026-11-19 17:11:29,告警,CPU 使用率 91.9%，超过阈值 90% | CPU 占用最高的 3 个程序：shchrome.exe（31.2%）、ctfmon.exe（8.4%）、svchost.exe（8.2%） | 
+2026-11-19 17:11:40,文件,内容修改：D:\tools\Notepad2\notepad2-v4.21.11\Notepad2.ini
+2026-11-19 17:11:45,文件,内容修改：D:\tools\Notepad2\notepad2-v4.21.11\Notepad2.ini
+2026-11-19 17:12:04,告警,CPU 使用率 100.0%，超过阈值 90% | CPU 占用最高的 3 个程序：shchrome.exe（47.3%）、ctfmon.exe（9.0%）、svchost.exe（7.8%） | 
+2026-11-19 17:12:35,告警,CPU 使用率 100.0%，超过阈值 90% | CPU 占用最高的 3 个程序：shchrome.exe（39.4%）、ctfmon.exe（8.4%）、svchost.exe（7.9%） | 
+2026-11-19 17:13:27,告警,CPU 使用率 100.0%，超过阈值 90% | CPU 占用最高的 3 个程序：shchrome.exe（43.6%）、ctfmon.exe（8.3%）、svchost.exe（8.0%） | 
+2026-11-19 17:13:57,告警,CPU 使用率 100.0%，超过阈值 90% | CPU 占用最高的 3 个程序：shchrome.exe（61.3%）、ctfmon.exe（8.2%）、svchost.exe（7.4%） | 
+2026-11-19 17:14:28,告警,CPU 使用率 91.6%，超过阈值 90% | CPU 占用最高的 3 个程序：shchrome.exe（31.3%）、svchost.exe（8.5%）、ctfmon.exe（8.3%） | 
+2026-11-19 17:14:58,告警,CPU 使用率 100.0%，超过阈值 90% | CPU 占用最高的 3 个程序：shchrome.exe（59.4%）、ctfmon.exe（8.4%）、svchost.exe（8.0%） | 
+2026-11-19 17:15:31,告警,CPU 使用率 100.0%，超过阈值 90% | CPU 占用最高的 3 个程序：shchrome.exe（55.2%）、ctfmon.exe（8.4%）、svchost.exe（8.4%） | 
+2026-11-19 17:16:11,告警,CPU 使用率 100.0%，超过阈值 90% | CPU 占用最高的 3 个程序：shchrome.exe（59.8%）、ctfmon.exe（8.2%）、svchost.exe（8.1%） | 
+2026-11-19 17:17:07,告警,CPU 使用率 100.0%，超过阈值 90% | CPU 占用最高的 3 个程序：shchrome.exe（61.2%）、ctfmon.exe（8.7%）、svchost.exe（8.2%） | 
+2026-11-19 17:20:38,文件,内容修改：D:\tools\Notepad2\notepad2-v4.21.11\Notepad2.ini
+2026-11-19 17:27:55,文件,内容修改：D:\tools\Notepad2\notepad2-v4.21.11\Notepad2.ini
+2026-11-19 17:27:58,文件,内容修改：D:\tools\Notepad2\notepad2-v4.21.11\Notepad2.ini
+2026-11-19 17:28:51,文件,删除文件：D:\ChromeCoreDownloads\Go语言+Fyne快速上手教程\Windows-SSO-main(Windows Single Sign-On authentication library).zip
+2026-11-19 17:28:51,文件,内容修改：D:\ChromeCoreDownloads\Go语言+Fyne快速上手教程
+2026-11-19 17:29:07,文件,内容修改：D:\tools\Notepad2\notepad2-v4.21.11\Notepad2.ini
+2026-11-19 17:29:49,告警,CPU 使用率 95.7%，超过阈值 90% | CPU 占用最高的 3 个程序：MsMpEng.exe（25.7%）、ctfmon.exe（8.5%）、svchost.exe（7.3%） | 
+2026-11-19 17:30:12,文件,内容修改：D:\tools\Notepad2\notepad2-v4.21.11\Notepad2.ini
+2026-11-19 17:30:19,告警,CPU 使用率 98.0%，超过阈值 90% | CPU 占用最高的 3 个程序：WorkBuddy.exe（13.0%）、WorkBuddy.exe（8.7%）、svchost.exe（8.4%） | 
+2026-11-19 17:30:31,文件,内容修改：D:\tools\Notepad2\notepad2-v4.21.11\Notepad2.ini
+2026-11-19 17:31:13,告警,CPU 使用率 100.0%，超过阈值 90% | CPU 占用最高的 3 个程序：MsMpEng.exe（17.0%）、ctfmon.exe（8.3%）、svchost.exe（7.9%） | 
+2026-11-19 17:31:14,文件,内容修改：D:\yang2020\yls\AssistTools\文件下载工具\20240823-GitHub加速器fastgithub(1)\Github加速工具Win版\fastgithub_win-x64\logs\log20261119.txt
+2026-11-24 13:32:54,告警,CPU 使用率 100.0%，超过阈值 90% | CPU 占用最高的 3 个程序：WorkBuddy.exe（9.7%）、WorkBuddy.exe（9.5%）、WorkBuddy.exe（9.1%） | 
+2026-11-26 13:10:02,告警,CPU 使用率 100.0%，超过阈值 90% | CPU 占用最高的 3 个程序：MsMpEng.exe（17.6%）、WorkBuddy.exe（9.5%）、WorkBuddy.exe（8.9%） | 
+2026-11-26 13:12:37,告警,CPU 使用率 90.1%，超过阈值 90% | CPU 占用最高的 3 个程序：WorkBuddy.exe（10.8%）、ctfmon.exe（8.7%）、QQ.exe（8.5%） | 
+2026-11-26 13:15:55,告警,CPU 使用率 96.0%，超过阈值 90% | CPU 占用最高的 3 个程序：explorer.exe（10.9%）、ctfmon.exe（8.2%）、svchost.exe（8.1%） | 
